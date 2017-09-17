@@ -1,0 +1,1947 @@
+﻿#EXTM3U
+#EXTINF:-1, tvg-name="翡翠台" tvg-logo="TVB.png" group-title="深港地面波",测试
+http://119.246.126.72:9981/stream/channelid/9?ticket=38C0B63E6B37392E851501AC37F2A84B96E30BD1
+#EXTINF:-1, tvg-name="翡翠台" tvg-logo="TVB.png" group-title="深港地面波",翡翠台(MYTV源）
+http://token.tvb.com/stream/live/hls/mobilehd_jade.smil
+#EXTINF:-1, tvg-name="J5" tvg-logo="TVBHD.png" group-title="深港地面波",J5(MYTV源）
+http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil
+#EXTINF:-1,tvg-name="互动新闻台" tvg-logo="xinwen.png" group-title="深港地面波",互动新闻台(MYTV源）
+http://token.tvb.com/stream/live/hls/mobilehd_inews.smil
+#EXTINF:-1, tvg-name="J5" tvg-logo="TVBHD.png" group-title="深港地面波",J5
+http://192.168.0.32:8001/1:0:1:55:1:7FFE:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="J2" tvg-logo="J2.png" group-title="深港地面波",J2
+http://192.168.0.32:8001/1:0:1:52:1:7FFE:10000:0:0:0:
+
+#EXTINF:-1,tvg-name="互动新闻台" tvg-logo="xinwen.png" group-title="深港地面波",互动新闻台
+
+http://192.168.0.32:8001/1:0:1:53:1:7FFE:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="翡翠台" tvg-logo="TVB.png" group-title="深港地面波",翡翠台
+
+http://192.168.0.32:8001/1:0:1:1:1:7FFD:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="明珠台" tvg-logo="mingzhu.png" group-title="深港地面波",明珠台
+
+http://192.168.0.32:8001/1:0:1:2:1:7FFE:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="亚洲台" tvg-logo="ATV.png" group-title="深港地面波",亚洲台
+http://192.168.0.32:8001/1:0:1:C:2:7FFF:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="岁月留声" tvg-logo="suiyue.png" group-title="深港地面波",岁月留声
+
+http://192.168.0.32:8001/1:0:1:D:2:7FFF:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="CCTV1标清" tvg-logo="CCTV1.png" group-title="深港地面波",CCTV1标清
+http://192.168.0.32:8001/1:0:1:F:2:7FFF:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="深圳卫视" tvg-logo="shenzhen.png" group-title="深港地面波",深圳卫视标清
+http://192.168.0.32:8001/1:0:1:11:2:7FFF:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="本港台" tvg-logo="ATV2.png" group-title="深港地面波",本港台
+http://192.168.0.32:8001/1:0:1:B:1:7FFD:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="国际台" tvg-logo="guoji.png" group-title="深港地面波",国际台
+
+http://192.168.0.32:8001/1:0:1:10:1:7FFD:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="深圳卫视2" tvg-logo="shenzhen.png" group-title="深港地面波",SZTV2-HD
+
+http://192.168.0.32:8001/1:0:1:B:1:1:1061A:0:0:0:
+
+#EXTINF:-1, tvg-name="深圳卫视7" tvg-logo="shenzhen.png" group-title="深港地面波",SZTV7-HD
+http://192.168.0.32:8001/1:0:1:C:1:1:1061A:0:0:0:
+
+#EXTINF:-1, tvg-name="深圳卫视" tvg-logo="shenzhen.png" group-title="深港地面波",SZTV-HD
+http://192.168.0.32:8001/1:0:1:29:4:1:10702:0:0:0:
+
+#EXTINF:-1, tvg-name="深圳卫视1" tvg-logo="shenzhen.png" group-title="深港地面波",SZTV1-HD
+http://192.168.0.32:8001/1:0:1:2A:4:1:10702:0:0:0:
+
+#EXTINF:-1, tvg-name="CCTV1-HD" tvg-logo="CCTV1.png" group-title="深港地面波",CCTV1-HD
+
+http://192.168.0.32:8001/1:0:1:1F:3:1:106FA:0:0:0:
+
+#EXTINF:-1, tvg-name="CCTV5+HD" tvg-logo="CCTV5.png" group-title="深港地面波",CCTV5+HD
+http://192.168.0.32:8001/1:0:1:20:3:1:106FA:0:0:0:
+
+#EXTINF:-1, tvg-name="RTHKTV 31" tvg-logo="RTHK.png" group-title="深港地面波",港台电视31
+
+http://192.168.0.32:8001/1:0:1:1F:1:7FFC:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="RTHKTV 32" tvg-logo="RTHK.png" group-title="深港地面波",港台电视32
+
+http://192.168.0.32:8001/1:0:1:20:1:7FFC:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="RTHKTV 33" tvg-logo="RTHK.png" group-title="深港地面波",港台电视33
+
+http://192.168.0.32:8001/1:0:1:21:1:7FFC:10000:0:0:0:
+
+#EXTINF:-1, tvg-name="CCTV11" tvg-logo="RTHK.png" group-title="佛山地面波",CCTV11
+
+http://192.168.0.23:9981/stream/channelid/589520688?ticket=A6230871481ED14FDB69C0B7AADFE14DE91BCD50&profile=pass
+
+#EXTINF:-1, tvg-name="Animax Asia HD" tvg-logo="Animax HD.png" group-title="PVU卫星91.5",Animax Asia HD
+
+http://192.168.0.69:8001/1:0:1:32:1:5:3930000:0:0:0:
+
+#EXTINF:-1, tvg-name="Animax TW HD" tvg-logo="Animax HD.png" group-title="PVU卫星91.5",Animax TW HD
+
+http://192.168.0.69:8001/1:0:1:46:1:5:3930000:0:0:0:
+
+#EXTINF:-1, tvg-name="AXN EA HD" tvg-logo="AXNHD.png" group-title="PVU卫星91.5",AXN EA HD
+
+http://192.168.0.69:8001/1:0:1:6F:1:5:3930000:0:0:0:
+
+#EXTINF:-1, tvg-name="CI HD" tvg-logo="Crime.png" group-title="PVU卫星91.5",CI HD
+
+http://192.168.0.69:8001/1:0:1:194:2:1:3938EB0:0:0:0:
+#EXTINF:-1, tvg-name="CI HD东北亚" tvg-logo="Crime.png" group-title="PVU卫星91.5",CI HD东北亚
+
+http://192.168.0.69:8001/1:0:1:19E:2:1:3938EB0:0:0:0:
+
+#EXTINF:-1, tvg-name="时尚疯 4K" tvg-logo="Fashion TV HD.png" group-title="PVU卫星91.5",时尚疯 4K
+http://192.168.0.69:8001/1:0:1:32:1:1:3931018:0:0:0:
+
+#EXTINF:-1, tvg-name="FYI HD" tvg-logo="FYI Asia.png" group-title="PVU卫星91.5",FYI HD
+http://192.168.0.69:8001/1:0:1:193:2:1:3938EB0:0:0:0:
+
+#EXTINF:-1, tvg-name="FYI HD东北亚" tvg-logo="FYI Asia.png" group-title="PVU卫星91.5",FYI HD东北亚
+
+http://192.168.0.69:8001/1:0:1:19D:2:1:3938EB0:0:0:0:
+
+#EXTINF:-1, tvg-name="Sony Gem HD" tvg-logo="SET Deutschland HD.png" group-title="PVU卫星91.5",Sony Gem HD
+
+http://192.168.0.69:8001/1:0:1:3F:1:2:3938F50:0:0:0:
+#EXTINF:-1, tvg-name="高尔夫频道" tvg-logo="RTHK.png" group-title="PVU卫星91.5",高尔夫频道
+http://192.168.0.69:8001/1:0:1:2D:1:1:3930E90:0:0:0:
+
+#EXTINF:-1, tvg-name="历史高清2HD" tvg-logo="H2 Canada.png" group-title="PVU卫星91.5",历史高清2HD
+http://192.168.0.69:8001/1:0:1:192:1:B:3930000:0:0:0:
+
+#EXTINF:-1, tvg-name="历史高清HD" tvg-logo="Historia HD.png" group-title="PVU卫星91.5",历史高清HD
+http://192.168.0.69:8001/1:0:1:67:2:1:3938EB0:0:0:0:
+
+#EXTINF:-1, tvg-name="历史高清HD NEA" tvg-logo="Historia HD.png" group-title="PVU卫星91.5",历史高清HD NEA
+
+http://192.168.0.69:8001/1:0:1:CB:2:1:3938EB0:0:0:0:
+
+#EXTINF:-1, tvg-name="江苏卫视" tvg-logo="Jiangsu TV.png" group-title="PVU卫星91.5",江苏卫视
+
+http://192.168.0.69:8001/1:0:1:131:1:2:3938F50:0:0:0:
+
+#EXTINF:-1, tvg-name="Lifetime HD" tvg-logo="Lifetime HD.png" group-title="PVU卫星91.5",Lifetime HD
+
+http://192.168.0.69:8001/1:0:1:191:1:B:3930000:0:0:0:
+
+#EXTINF:-1, tvg-name="NBA SD" tvg-logo="NBA.png" group-title="PVU卫星91.5",NBA SD
+http://192.168.0.69:8001/1:0:1:199:65:1:3938E39:0:0:0:
+
+#EXTINF:-1, tvg-name="RT HD" tvg-logo="RTHK.png" group-title="PVU卫星91.5",RT HD
+
+http://192.168.0.69:8001/1:0:1:6:42:42:3930000:0:0:0:
+
+#EXTINF:-1, tvg-name="SET ONE HD" tvg-logo="SET One.png" group-title="PVU卫星91.5",SET ONE HD
+
+http://192.168.0.69:8001/1:0:1:E9:1:5:3930000:0:0:0:
+
+#EXTINF:-1, tvg-name="Setanta TV HD" tvg-logo="Setanta Sports .png" group-title="PVU卫星91.5",Setanta TV HD
+http://192.168.0.69:8001/1:0:1:51:1:1:3931018:0:0:0:
+
+#EXTINF:-1, tvg-name="TV Record Japan" tvg-logo="01.png" group-title="PVU卫星91.5",TV Record Japan
+http://192.168.0.69:8001/1:0:1:11:21:21:3930000:0:0:0:
+
+
+#EXTINF:-1, tvg-name="台湾ITVHD" tvg-logo="ITV.png" group-title="88KU",台湾ITVHD
+
+http://192.168.0.42:8001/1:0:1:7:1000:2000:3712D95:0:0:0:
+
+#EXTINF:-1, tvg-name="中视箐采台" tvg-logo="CTV.png" group-title="88KU",中视箐采台
+http://192.168.0.42:8001/1:0:1:67:18:209E:3710000:0:0:0:
+
+#EXTINF:-1, tvg-name="台湾电视台" tvg-logo="taishi.png" group-title="88KU",台湾电视台
+
+http://192.168.0.42:8001/1:0:1:190:20:209E:3710000:0:0:0:
+
+#EXTINF:-1, tvg-name="台湾新闻台" tvg-logo="taishi.png" group-title="88KU",台湾新闻台
+
+http://192.168.0.42:8001/1:0:1:191:20:209E:3710000:0:0:0:
+
+#EXTINF:-1, tvg-name="台湾综合台" tvg-logo="taishi1.png" group-title="88KU",台湾综合台
+
+http://192.168.0.42:8001/1:0:1:193:20:209E:3710000:0:0:0:
+
+#EXTINF:-1, tvg-name="台湾财经台" tvg-logo="taishi.png" group-title="88KU",台湾财经台
+
+http://192.168.0.42:8001/1:0:1:192:20:209E:3710000:0:0:0:
+
+#EXTINF:-1, tvg-name="民视交通台" tvg-logo="mingshi3.png" group-title="88KU",民视交通台
+
+
+http://192.168.0.42:8001/1:0:1:12D:1C:209E:3710000:0:0:0:
+
+#EXTINF:-1, tvg-name="民视四季台" tvg-logo="sijitai.png" group-title="88KU",民视四季台
+
+http://192.168.0.42:8001/1:0:1:130:1C:209E:3710000:0:0:0:
+
+#EXTINF:-1, tvg-name="民视新闻台" tvg-logo="mingshi.png" group-title="88KU",民视新闻台
+
+
+http://192.168.0.42:8001/1:0:1:12E:1C:209E:3710000:0:0:0:
+
+#EXTINF:-1, tvg-name="民视综合台" tvg-logo="mingshi1.png" group-title="88KU",民视综合台
+
+http://192.168.0.42:8001/1:0:1:12C:1C:209E:3710000:0:0:0:
+
+#EXTINF:-1, tvg-name="台湾好消息" tvg-logo="GOODTV.png" group-title="网络源",台湾好消息(网络源）
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8
+
+#EXTINF:-1, tvg-name="三立都会台 HD" tvg-logo="GOODTV.png" group-title="网络源",台湾好消息(中华电信源）
+http://192.240.106.42:7002/64
+#EXTINF:-1, tvg-name="三立都会台 HD" tvg-logo="GOODTV.png" group-title="网络源",台湾好消息(中华电信源）
+http://50.7.77.130:50142/61
+
+#EXTINF:-1, tvg-name="探索频道 HD" tvg-logo="GOODTV.png" group-title="166C",探索频道 HD
+http://192.168.0.42:8001/1:0:1:CB:65:1:67C8FF0:0:0:0:
+
+#EXTINF:-1, tvg-name="探索科学 HD" tvg-logo="GOODTV.png" group-title="166C",探索科学 HD
+http://192.168.0.42:8001/1:0:1:6A6:C9:1:67C8FC8:0:0:0:
+
+
+#EXTINF:-1, tvg-name="中央四套" tvg-logo="CCTV4.png" group-title="顺德有线DM42",中央四套
+
+http://192.168.0.42:8001/1:0:1:12D:67:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央NEWS" tvg-logo="CCTV-NEWS.png" group-title="顺德有线DM42",中央NEWS
+
+http://192.168.0.42:8001/1:0:1:12E:67:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中教一套" tvg-logo="CETV1.png" group-title="顺德有线DM42",中教一套
+
+http://192.168.0.42:8001/1:0:1:12F:67:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="广东体育" tvg-logo="GDTY.png" group-title="顺德有线DM42",广东体育
+
+http://192.168.0.42:8001/1:0:1:130:67:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="佛山台" tvg-logo="FSTV.png" group-title="顺德有线DM42",佛山台
+
+http://192.168.0.42:8001/1:0:1:131:67:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="优购物" tvg-logo="UGO.png" group-title="顺德有线DM42",优购物
+
+http://192.168.0.42:8001/1:0:1:132:67:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="南方经济科教" tvg-logo="NFJJKJ.png" group-title="顺德有线DM42",南方经济科教
+
+http://192.168.0.42:8001/1:0:1:191:68:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="南方卫视" tvg-logo="NFWS.png" group-title="顺德有线DM42",南方卫视
+http://192.168.0.42:8001/1:0:1:192:68:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="南方综艺" tvg-logo="NFZY.png" group-title="顺德有线DM42",南方综艺
+
+http://192.168.0.42:8001/1:0:1:193:68:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="南方影视" tvg-logo="NFYS.png" group-title="顺德有线DM42",南方影视
+http://192.168.0.42:8001/1:0:1:194:68:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="南方少儿" tvg-logo="NFXE.png" group-title="顺德有线DM42",南方少儿
+http://192.168.0.42:8001/1:0:1:196:68:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="青海卫视 (订购)" tvg-logo="QHWS.png" group-title="顺德有线DM42",青海卫视 (订购)
+
+http://192.168.0.42:8001/1:0:1:386:6D:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="青海综合 (订购)" tvg-logo="QHZH.png" group-title="顺德有线DM42",青海综合 (订购)
+http://192.168.0.42:8001/1:0:1:387:6D:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="佛山综合" tvg-logo="FSZH.png" group-title="顺德有线DM42",佛山综合
+http://192.168.0.42:8001/1:0:1:388:6D:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="新疆卫视" tvg-logo="XJWS.png" group-title="顺德有线DM42",新疆卫视
+
+http://192.168.0.42:8001/1:0:1:389:6D:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="西藏卫视" tvg-logo="XZWS.png" group-title="顺德有线DM42",西藏卫视
+
+http://192.168.0.42:8001/1:0:1:38A:6D:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="顺德频道" tvg-logo="SD.png" group-title="顺德有线DM42",顺德频道
+http://192.168.0.42:8001/1:0:1:3EA:3F2:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="金鹰卡通" tvg-logo="JYKT.png" group-title="顺德有线DM42",金鹰卡通
+
+http://192.168.0.42:8001/1:0:1:3EB:3F2:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="佛山影视" tvg-logo="FSYS.png" group-title="顺德有线DM42",佛山影视
+
+http://192.168.0.42:8001/1:0:1:3EC:3F2:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="珠江传媒购物" tvg-logo="Guangdong TV.png" group-title="顺德有线DM42",珠江传媒购物
+
+http://192.168.0.42:8001/1:0:1:3ED:3F2:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="南海频道" tvg-logo="NHPD.png" group-title="顺德有线DM42",南海频道
+
+http://192.168.0.42:8001/1:0:1:3EE:3F2:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="湖北卫视" tvg-logo="HBWS.png" group-title="顺德有线DM42",湖北卫视
+
+http://192.168.0.42:8001/1:0:1:44D:3F3:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="四川卫视" tvg-logo="SQWS.png" group-title="顺德有线DM42",四川卫视
+
+http://192.168.0.42:8001/1:0:1:44E:3F3:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="辽宁卫视" tvg-logo="NNWS.png" group-title="顺德有线DM42",辽宁卫视
+http://192.168.0.42:8001/1:0:1:44F:3F3:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="江西卫视" tvg-logo="JXWS.png" group-title="顺德有线DM42",江西卫视
+http://192.168.0.42:8001/1:0:1:450:3F3:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="福建东南 (订购)" tvg-logo="FJDNWS.png" group-title="顺德有线DM42",福建东南 (订购)
+http://192.168.0.42:8001/1:0:1:451:3F3:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="河南卫视" tvg-logo="HNWS.png" group-title="顺德有线DM42",河南卫视
+
+http://192.168.0.42:8001/1:0:1:452:3F3:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="都市剧场 (订购)" tvg-logo="DSJC.png" group-title="顺德有线DM42",都市剧场 (订购)
+
+http://192.168.0.42:8001/1:0:1:4B1:3F4:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="魅力音乐 (订购)" tvg-logo="MNYY.png" group-title="顺德有线DM42",魅力音乐 (订购)
+
+http://192.168.0.42:8001/1:0:1:4B4:3F4:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="法治天地 (订购)" tvg-logo="FZTD.png" group-title="顺德有线DM42",法治天地 (订购)
+
+http://192.168.0.42:8001/1:0:1:4B5:3F4:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="极速汽车 (订购)" tvg-logo="JXQC.png" group-title="顺德有线DM42",极速汽车 (订购)
+
+http://192.168.0.42:8001/1:0:1:4B6:3F4:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="欢笑剧场 (订购)" tvg-logo="HXJC.png" group-title="顺德有线DM42",欢笑剧场 (订购)
+
+http://192.168.0.42:8001/1:0:1:4B7:3F4:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="金色频道 (订购)" tvg-logo="JXPD.png" group-title="顺德有线DM42",金色频道 (订购)
+
+http://192.168.0.42:8001/1:0:1:4B8:3F4:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="北京卫视" tvg-logo="BJWS.png" group-title="顺德有线DM42",北京卫视
+http://192.168.0.42:8001/1:0:1:515:3F5:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="浙江卫视" tvg-logo="ZJWS.png" group-title="顺德有线DM42",浙江卫视
+
+http://192.168.0.42:8001/1:0:1:516:3F5:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="山西卫视(订购)" tvg-logo="SXWS.png" group-title="顺德有线DM42",山西卫视(订购)
+http://192.168.0.42:8001/1:0:1:519:3F5:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="兵团卫视(订购)" tvg-logo="BTWS.png" group-title="顺德有线DM42",兵团卫视(订购)
+
+http://192.168.0.42:8001/1:0:1:51A:3F5:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="房产频道" tvg-logo="01.png" group-title="顺德有线DM42",房产频道
+
+http://192.168.0.42:8001/1:0:1:579:3F6:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央音乐" tvg-logo="CCTV15.png" group-title="顺德有线DM42",中央音乐
+
+http://192.168.0.42:8001/1:0:1:57A:3F6:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="央广购物" tvg-logo="YGGW.png" group-title="顺德有线DM42",央广购物
+
+http://192.168.0.42:8001/1:0:1:57B:3F6:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="音像世界" tvg-logo="YXXJ.png" group-title="顺德有线DM42",音像世界
+
+http://192.168.0.42:8001/1:0:1:76D:3FB:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="乒羽(订购)" tvg-logo="BYPD.png" group-title="顺德有线DM42",乒羽(订购)
+http://192.168.0.42:8001/1:0:1:76E:3FB:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中华美食(订购)" tvg-logo="ZHMS.png" group-title="顺德有线DM42",中华美食(订购)
+http://192.168.0.42:8001/1:0:1:76F:3FB:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="现代教育" tvg-logo="XDJY.png" group-title="顺德有线DM42",现代教育
+http://192.168.0.42:8001/1:0:1:770:3FB:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="靓妆频道 (订购)" tvg-logo="NZPD.png" group-title="顺德有线DM42",靓妆频道 (订购)
+
+http://192.168.0.42:8001/1:0:1:772:3FB:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="动漫秀场 (订购)" tvg-logo="DMXC.png" group-title="顺德有线DM42",动漫秀场 (订购)
+
+http://192.168.0.42:8001/1:0:1:7D1:3FC:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="游戏风云 (订购)" tvg-logo="YQFY.png" group-title="顺德有线DM42",游戏风云 (订购)
+
+http://192.168.0.42:8001/1:0:1:7D2:3FC:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="东方财经 (订购)" tvg-logo="DFCJ.png" group-title="顺德有线DM42",东方财经 (订购)
+
+http://192.168.0.42:8001/1:0:1:7D3:3FC:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="卫生健康 (订购)" tvg-logo="WSJK.png" group-title="顺德有线DM42",卫生健康 (订购)
+
+http://192.168.0.42:8001/1:0:1:7D4:3FC:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="全纪实" tvg-logo="CCTV9_DOCUMENTARY.png" group-title="顺德有线DM42",全纪实
+http://192.168.0.42:8001/1:0:1:7D5:3FC:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="劲爆体育 (订购)" tvg-logo="JBTY.png" group-title="顺德有线DM42",劲爆体育 (订购)
+http://192.168.0.42:8001/1:0:1:7D7:3FC:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="老故事（订购）" tvg-logo="CCTV_LGS.png" group-title="顺德有线DM42",老故事（订购）
+
+http://192.168.0.42:8001/1:0:1:835:3FD:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="女性时尚（订购)" tvg-logo="CCTV_NXSS.png" group-title="顺德有线DM42",女性时尚（订购)
+http://192.168.0.42:8001/1:0:1:836:3FD:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="发现之旅" tvg-logo="CCTV_FXZN.png" group-title="顺德有线DM42",发现之旅
+http://192.168.0.42:8001/1:0:1:837:3FD:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="生活时尚（订购）" tvg-logo="shenghuosc.png" group-title="顺德有线DM42",生活时尚（订购）
+http://192.168.0.42:8001/1:0:1:838:3FD:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="七彩戏剧（订购）" tvg-logo="QCZC.png" group-title="顺德有线DM42",七彩戏剧（订购）
+
+http://192.168.0.42:8001/1:0:1:839:3FD:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="家庭影院（订购）" tvg-logo="JTYY.png" group-title="顺德有线DM42",家庭影院（订购）
+
+http://192.168.0.42:8001/1:0:1:83A:3FD:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="数字电视指南" tvg-logo="zhinan.png" group-title="顺德有线DM42",数字电视指南
+http://192.168.0.42:8001/1:0:1:89B:3FE:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="澳亚卫视" tvg-logo="YOWS.png" group-title="顺德有线DM42",澳亚卫视
+http://192.168.0.42:8001/1:0:1:89D:3FE:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="清远台" tvg-logo="CYPD.png" group-title="顺德有线DM42",清远台
+
+http://192.168.0.42:8001/1:0:1:89E:3FE:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="东莞台" tvg-logo="DGPD.png" group-title="顺德有线DM42",东莞台
+http://192.168.0.42:8001/1:0:1:8FD:3FF:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="内蒙古卫视(订购)" tvg-logo="NMGWS.png" group-title="顺德有线DM42",内蒙古卫视(订购)
+
+http://192.168.0.42:8001/1:0:1:8FE:3FF:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="嘉佳卡通" tvg-logo="JJKT.png" group-title="顺德有线DM42",嘉佳卡通
+
+http://192.168.0.42:8001/1:0:1:8FF:3FF:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="宁夏卫视" tvg-logo="NXWS.png" group-title="顺德有线DM42",宁夏卫视
+
+http://192.168.0.42:8001/1:0:1:901:3FF:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="广西卫视" tvg-logo="GXWS.png" group-title="顺德有线DM42",广西卫视
+http://192.168.0.42:8001/1:0:1:902:3FF:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清广东卫视" tvg-logo="GDWSHD.png" group-title="顺德有线DM42",高清广东卫视
+
+http://192.168.0.42:8001/1:0:1:961:400:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="DOX·英伦" tvg-logo="DOX_YL.png" group-title="顺德有线DM42",DOX·英伦
+
+http://192.168.0.42:8001/1:0:1:962:400:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清北京卫视" tvg-logo="BJWSHD.png" group-title="顺德有线DM42",高清北京卫视
+
+http://192.168.0.42:8001/1:0:1:963:400:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清广东体育(测试)" tvg-logo="GDTYHD.png" group-title="顺德有线DM42",高清广东体育(测试)
+
+http://192.168.0.42:8001/1:0:1:9C5:401:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="全纪实 HD" tvg-logo="CJS.png" group-title="顺德有线DM42",全纪实 HD
+
+http://192.168.0.42:8001/1:0:1:9C6:401:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="魅力音乐 HD" tvg-logo="MNYY.png" group-title="顺德有线",魅力音乐 HD
+http://192.168.0.42:8001/1:0:1:9C7:401:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="央视精品(订购)" tvg-logo="CCTV_JP.png" group-title="顺德有线DM42",央视精品(订购)
+
+http://192.168.0.42:8001/1:0:1:A29:402:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="怀旧剧场(订购)" tvg-logo="CCTV_HJ.png" group-title="顺德有线DM42",怀旧剧场(订购)
+
+http://192.168.0.42:8001/1:0:1:A2A:402:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="第一剧场(订购)" tvg-logo="CCTV_DY.png" group-title="顺德有线DM42",第一剧场(订购)
+http://192.168.0.42:8001/1:0:1:A2B:402:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="早期教育(订购)" tvg-logo="CETV Early Education.png" group-title="顺德有线DM42",早期教育(订购)
+
+http://192.168.0.42:8001/1:0:1:A2C:402:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中国气象频道" tvg-logo="ZGCX.png" group-title="顺德有线DM42",中国气象频道
+http://192.168.0.42:8001/1:0:1:A2D:402:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="东方购物" tvg-logo="dongfanggouwu.png" group-title="顺德有线DM42",东方购物
+
+http://192.168.0.42:8001/1:0:1:A2E:402:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清湖南卫视" tvg-logo="HNWSHD.png" group-title="顺德有线DM42",高清湖南卫视
+
+http://192.168.0.42:8001/1:0:1:AF1:404:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清江苏卫视" tvg-logo="JXWSHD.png" group-title="顺德有线DM42",高清江苏卫视
+http://192.168.0.42:8001/1:0:1:AF2:404:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清浙江卫视" tvg-logo="ZJWSHD.png" group-title="顺德有线DM42",高清浙江卫视
+
+http://192.168.0.42:8001/1:0:1:AF3:404:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="新视觉（订购）" tvg-logo="xinshijue.png" group-title="顺德有线DM42",新视觉（订购）
+
+http://192.168.0.42:8001/1:0:1:B55:405:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清深圳卫视" tvg-logo="SZWSHD.png" group-title="顺德有线DM42",高清深圳卫视
+http://192.168.0.42:8001/1:0:1:B56:405:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清黑龙江卫视" tvg-logo="HNJWSHD.png" group-title="顺德有线DM42",高清黑龙江卫视
+http://192.168.0.42:8001/1:0:1:B57:405:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="求索动物" tvg-logo="discovery.png" group-title="顺德有线DM42",求索动物
+
+http://192.168.0.42:8001/1:0:1:1195:415:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="求索纪录" tvg-logo="discovery.png" group-title="顺德有线DM42",求索纪录
+http://192.168.0.42:8001/1:0:1:11F9:416:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="求索科学" tvg-logo="discovery.png" group-title="顺德有线DM42",求索科学
+http://192.168.0.42:8001/1:0:1:11FA:416:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="求索生活" tvg-logo="discovery.png" group-title="顺德有线DM42",求索生活
+
+http://192.168.0.42:8001/1:0:1:11FB:416:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清中央二套" tvg-logo="CCTV2HD.png" group-title="顺德有线DM42",高清中央二套
+http://192.168.0.42:8001/1:0:1:125D:417:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清中央七套" tvg-logo="CCTV7HD.png" group-title="顺德有线DM42",高清中央七套
+http://192.168.0.42:8001/1:0:1:125E:417:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清中央十二套" tvg-logo="CCTV12HD.png" group-title="顺德有线DM42",高清中央十二套
+
+http://192.168.0.42:8001/1:0:1:125F:417:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清安徽卫视" tvg-logo="AHWSHD.png" group-title="顺德有线DM42",高清安徽卫视
+
+http://192.168.0.42:8001/1:0:1:12C1:418:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清搏击（订购）" tvg-logo="boji.png" group-title="顺德有线DM42",高清搏击（订购）
+
+http://192.168.0.42:8001/1:0:1:12C2:418:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清中央十四套" tvg-logo="CCTV14HD.png" group-title="顺德有线DM42",高清中央十四套
+http://192.168.0.42:8001/1:0:1:264B:44A:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清天津卫视" tvg-logo="TJWSHD.png" group-title="顺德有线DM42",高清天津卫视
+
+http://192.168.0.42:8001/1:0:1:1325:419:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清山东卫视" tvg-logo="SDWSHD.png" group-title="顺德有线DM42",高清山东卫视
+
+http://192.168.0.42:8001/1:0:1:1326:419:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清湖北卫视" tvg-logo="HBWSHD.png" group-title="顺德有线DM42",高清湖北卫视
+
+http://192.168.0.42:8001/1:0:1:1327:419:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="劲爆体育 HD" tvg-logo="jingbao.png" group-title="顺德有线DM42",劲爆体育 HD
+
+http://192.168.0.42:8001/1:0:1:2329:442:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="DOX·韩流" tvg-logo="DOX_HL.png" group-title="顺德有线DM42",DOX·韩流
+http://192.168.0.42:8001/1:0:1:232A:442:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="欢笑剧场 HD" tvg-logo="HXJC.png" group-title="顺德有线DM42",欢笑剧场 HD
+
+http://192.168.0.42:8001/1:0:1:232B:442:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="3D电视试验频道" tvg-logo="3D.png" group-title="顺德有线DM42",3D电视试验频道
+http://192.168.0.42:8001/1:0:1:2455:445:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="DOX·新艺" tvg-logo="DOX_XY.png" group-title="顺德有线DM42",DOX·新艺
+
+http://192.168.0.42:8001/1:0:1:2456:445:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="DOX·映画" tvg-logo="DOX_YH.png" group-title="顺德有线DM42",DOX·映画
+http://192.168.0.42:8001/1:0:1:24B9:446:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="DOX·剧场" tvg-logo="DOX_JC.png" group-title="顺德有线DM42",DOX·剧场
+http://192.168.0.42:8001/1:0:1:24BA:446:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="DOX·新知" tvg-logo="DOX_XZ.png" group-title="顺德有线DM42",DOX·新知
+
+http://192.168.0.42:8001/1:0:1:24BB:446:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="DOX·怡家" tvg-logo="DOX_XZ.png" group-title="顺德有线DM42",DOX·怡家
+http://192.168.0.42:8001/1:0:1:23F2:444:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="DOX·院线" tvg-logo="DOX_XZ.png" group-title="顺德有线DM42",DOX·院线
+
+http://192.168.0.42:8001/1:0:1:238E:443:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="江门台" tvg-logo="JM.png" group-title="顺德有线DM42",江门台
+
+http://192.168.0.42:8001/1:0:1:251D:447:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="惠州台" tvg-logo="HZ.png" group-title="顺德有线DM42",惠州台
+
+http://192.168.0.42:8001/1:0:1:251E:447:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="肇庆台" tvg-logo="ZX.png" group-title="顺德有线DM42",肇庆台
+
+http://192.168.0.42:8001/1:0:1:251F:447:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中山台" tvg-logo="ZS.png" group-title="顺德有线DM42",中山台
+
+http://192.168.0.42:8001/1:0:1:2520:447:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="珠海台" tvg-logo="ZH.png" group-title="顺德有线DM42",珠海台
+
+http://192.168.0.42:8001/1:0:1:2521:447:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="明珠台" tvg-logo="TVB_MZ.png" group-title="顺德有线DM42",明珠台
+http://192.168.0.42:8001/1:0:1:322:6C:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="国际台" tvg-logo="ATV_GJ.png" group-title="顺德有线DM42",国际台
+http://192.168.0.42:8001/1:0:1:321:6C:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清中央三套" tvg-logo="CCTV3HD.png" group-title="顺德有线DM42",高清中央三套
+http://192.168.0.42:8001/1:0:1:25E5:449:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清中央五套" tvg-logo="CCTV5+.png" group-title="顺德有线DM42",高清中央五套
+http://192.168.0.42:8001/1:0:1:25E6:449:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清中央六套" tvg-logo="CCTV6HD.png" group-title="顺德有线DM42",高清中央六套
+http://192.168.0.42:8001/1:0:1:25E7:449:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清中央八套" tvg-logo="CCTV8HD.png" group-title="顺德有线DM42",高清中央八套
+http://192.168.0.42:8001/1:0:1:2649:44A:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清中央九套" tvg-logo="CCTV9HD.png" group-title="顺德有线DM42",高清中央九套
+
+http://192.168.0.42:8001/1:0:1:264A:44A:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清中央十套" tvg-logo="CCTV10HD.png" group-title="顺德有线DM42",高清中央十套
+http://192.168.0.42:8001/1:0:1:264B:44A:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="本港台" tvg-logo="ATV_BG.png" group-title="顺德有线DM42",本港台
+http://192.168.0.42:8001/1:0:1:1771:1777:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="翡翠台" tvg-logo="TVB_FC.png" group-title="顺德有线DM42",翡翠台
+http://192.168.0.42:8001/1:0:1:1772:1777:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="国际台" tvg-logo="ATV_GJ.png" group-title="顺德有线DM42",国际台
+
+http://192.168.0.42:8001/1:0:1:321:6C:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="明珠台" tvg-logo="TVB_MZ.png" group-title="顺德有线DM42",明珠台
+
+http://192.168.0.42:8001/1:0:1:322:6C:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="上海东方" tvg-logo="Dragon TV.png" group-title="顺德有线DM42",上海东方
+
+http://192.168.0.42:8001/1:0:1:6A7:3F9:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="世界地理（订购）" tvg-logo="National Geographic.png" group-title="顺德有线DM42",世界地理（订购）
+
+http://192.168.0.42:8001/1:0:1:70E:3FA:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央一套" tvg-logo="CCTV1.png" group-title="顺德有线DM42",中央一套
+http://192.168.0.42:8001/1:0:1:65:65:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央七套" tvg-logo="CCTV7HD.png" group-title="顺德有线DM42",中央七套
+http://192.168.0.42:8001/1:0:1:67:65:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央三套" tvg-logo="CCTV3HD.png" group-title="顺德有线DM42",中央三套
+
+http://192.168.0.42:8001/1:0:1:C9:66:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央九套" tvg-logo="CCTV9HD.png" group-title="顺德有线DM42",中央九套
+
+
+http://192.168.0.42:8001/1:0:1:5DF:3F7:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央二套" tvg-logo="CCTV2HD.png" group-title="顺德有线DM42",中央二套
+
+
+http://192.168.0.42:8001/1:0:1:66:65:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央五套" tvg-logo="CCTV5.png" group-title="顺德有线DM42",中央五套
+
+
+http://192.168.0.42:8001/1:0:1:CA:66:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央八套" tvg-logo="CCTV8HD.png" group-title="顺德有线DM42",中央八套
+
+
+http://192.168.0.42:8001/1:0:1:CC:66:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央六套" tvg-logo="CCTV 6.png" group-title="顺德有线DM42",中央六套
+
+http://192.168.0.42:8001/1:0:1:CB:66:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央十一" tvg-logo="CCTV11.png" group-title="顺德有线DM42",中央十一
+
+
+http://192.168.0.42:8001/1:0:1:641:3F8:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央十二" tvg-logo="CCTV12HD.png" group-title="顺德有线DM42",中央十二
+
+http://192.168.0.42:8001/1:0:1:642:3F8:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央十套" tvg-logo="CCTV10HD.png" group-title="顺德有线DM42",中央十套
+http://192.168.0.42:8001/1:0:1:68:65:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央四套" tvg-logo="CCTV4.png" group-title="顺德有线DM42",中央四套
+
+http://192.168.0.42:8001/1:0:1:12D:67:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央少儿" tvg-logo="CCTV14HD.png" group-title="顺德有线DM42",中央少儿
+http://192.168.0.42:8001/1:0:1:643:3F8:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="中央新闻" tvg-logo="cctv13_news_chinese.png" group-title="顺德有线DM42",中央新闻
+http://192.168.0.42:8001/1:0:1:644:3F8:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="体育赛事" tvg-logo="CCTV 5+.png" group-title="顺德有线DM42",体育赛事
+http://192.168.0.42:8001/1:0:1:23F1:444:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="凤凰中文" tvg-logo="fenghuang.png" group-title="顺德有线DM42",凤凰中文
+http://192.168.0.42:8001/1:0:1:2C0:6B:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="动作电影（订购）" tvg-logo="CHC Action.png" group-title="顺德有线DM42",动作电影（订购）
+
+http://192.168.0.42:8001/1:0:1:325:6C:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="吉林卫视（订购）" tvg-logo="Jilin TV.png" group-title="顺德有线DM42",吉林卫视（订购）
+
+
+http://192.168.0.42:8001/1:0:1:6A5:3F9:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="国防军事（订购）" tvg-logo="CCTV Military Affairs.png" group-title="顺德有线DM42",国防军事（订购）
+
+http://192.168.0.42:8001/1:0:1:709:3FA:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="天津卫视" tvg-logo="Tianjin TV.pngg" group-title="顺德有线DM42",天津卫视
+http://192.168.0.42:8001/1:0:1:5E1:3F7:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="安徽卫视" tvg-logo="AHWSHD.png" group-title="顺德有线DM42",安徽卫视
+
+http://192.168.0.42:8001/1:0:1:1F8:69:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="山东卫视" tvg-logo="SDWSHD.png" group-title="顺德有线DM42",山东卫视
+
+http://192.168.0.42:8001/1:0:1:6A6:3F9:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="广东公共" tvg-logo="GDTV Public.png" group-title="顺德有线DM42",广东公共
+
+http://192.168.0.42:8001/1:0:1:259:6A:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="广东卫视" tvg-logo="GDWSHD.png" group-title="顺德有线DM42",广东卫视
+
+http://192.168.0.42:8001/1:0:1:1F5:69:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="广东新闻" tvg-logo="GDnews.png" group-title="顺德有线DM42",广东新闻
+
+http://192.168.0.42:8001/1:0:1:25B:6A:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="广州台" tvg-logo="Guangzhou TV.png" group-title="顺德有线DM42",广州台
+http://192.168.0.42:8001/1:0:1:25C:6A:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="广州影视（订购）" tvg-logo="GZTV.png" group-title="顺德有线DM42",广州影视（订购）
+
+http://192.168.0.42:8001/1:0:1:2C2:6B:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="广州新闻" tvg-logo="GZNEWS.png" group-title="顺德有线DM42",广州新闻
+
+http://192.168.0.42:8001/1:0:1:2C1:6B:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="广州购物" tvg-logo="GZTV.png" group-title="顺德有线DM42",广州购物
+
+http://192.168.0.42:8001/1:0:1:2BF:6B:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="江苏卫视" tvg-logo="Jiangsu TV.png" group-title="顺德有线DM42",江苏卫视
+http://192.168.0.42:8001/1:0:1:6A8:3F9:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="河北卫视（订购）" tvg-logo="hebie.png" group-title="顺德有线DM42",河北卫视（订购）
+http://192.168.0.42:8001/1:0:1:25E:6A:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="深圳台" tvg-logo="SZWSHD.png" group-title="顺德有线DM42",深圳台
+http://192.168.0.42:8001/1:0:1:1F9:69:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="湖南卫视" tvg-logo="HNWSHD.png" group-title="顺德有线DM42",湖南卫视
+
+http://192.168.0.42:8001/1:0:1:1F6:69:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="珠江台" tvg-logo="zhujiang.png" group-title="顺德有线DM42",珠江台
+
+http://192.168.0.42:8001/1:0:1:25A:6A:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="珠江电影" tvg-logo="zhujiangdianying.png" group-title="顺德有线DM42",珠江电影
+
+http://192.168.0.42:8001/1:0:1:5DE:3F7:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="贵州卫视" tvg-logo="guizhou.png" group-title="顺德有线DM42",贵州卫视
+
+http://192.168.0.42:8001/1:0:1:326:6C:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="重庆卫视" tvg-logo="zhognqingweishi.png" group-title="顺德有线DM42",重庆卫视
+
+
+http://192.168.0.42:8001/1:0:1:1F7:69:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="镇街新闻轮播" tvg-logo="guangdian.png" group-title="顺德有线DM42",镇街新闻轮播
+
+http://192.168.0.42:8001/1:0:1:183A:1784:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="风云剧场（订购）" tvg-logo="CCTVfenyun.png" group-title="顺德有线DM42",风云剧场（订购）
+
+http://192.168.0.42:8001/1:0:1:70A:3FA:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="风云足球（订购）" tvg-logo="CCTV Football.png" group-title="顺德有线DM42",风云足球（订购）
+
+http://192.168.0.42:8001/1:0:1:70C:3FA:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="风云音乐（订购）" tvg-logo="CCTV Fashion Music.png" group-title="顺德有线DM42",风云音乐（订购）
+
+http://192.168.0.42:8001/1:0:1:70B:3FA:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高尔夫网球（订购）" tvg-logo="CCTVGWT.png" group-title="顺德有线DM42",高尔夫网球（订购）
+
+http://192.168.0.42:8001/1:0:1:70D:3FA:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高尔夫频道（订购）" tvg-logo="GOFT1111.png" group-title="顺德有线DM42",高尔夫频道（订购）
+
+http://192.168.0.42:8001/1:0:1:5E2:3F7:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清上海东方" tvg-logo="Dragon TV.png" group-title="顺德有线DM42",高清上海东方
+
+http://192.168.0.42:8001/1:0:1:238F:443:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清中央一套" tvg-logo="cctv01.png" group-title="顺德有线DM42",高清中央一套
+http://192.168.0.42:8001/1:0:1:23F3:444:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="高清电影（订购）" tvg-logo="CHC HD.png" group-title="顺德有线DM42",高清电影（订购）
+
+http://192.168.0.42:8001/1:0:1:238D:443:1388:40000:0:0:0:
+
+#EXTINF:-1, tvg-name="黑龙江卫视" tvg-logo="HNJWSHD.png" group-title="顺德有线DM42",黑龙江卫视
+
+http://192.168.0.42:8001/1:0:1:6AA:3F9:1388:40000:0:0:0:
+
+#EXTINF:-1  tvg-name="家监控1" tvg-logo="RTHK.png" group-title="海康威视",家监控
+rtsp://admin:TYCadmin@192.168.0.91:554/h264/ch1/main/av_stream
+#EXTINF:-1  tvg-name="上城DM监控1" tvg-logo="guangdian.png" group-title="海康威视",上城DM监控1
+rtsp://admin:123456@192.168.0.25:10666/h264/ch1/main/av_stream
+#EXTINF:-1  tvg-name="上城DM监控2" tvg-logo="guangdian.png" group-title="海康威视",上城DM监控2
+rtsp://admin:123456@192.168.0.25:10666/h264/ch2/main/av_stream
+#EXTINF:-1  tvg-name="上城DM监控3" tvg-logo="guangdian.png" group-title="海康威视",上城DM监控3
+rtsp://admin:123456@192.168.0.25:10666/h264/ch3/main/av_stream
+
+
+#EXTINF:-1, tvg-name="中央一套" tvg-logo="cctv01.png" group-title="电信iTV南传源",CCTV-1综合(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227255/10000100000000060000000001066420_0.smil
+#EXTINF:-1, tvg-name="中央二套" tvg-logo="CCTV2HD.png" group-title="电信iTV南传源",CCTV-2财经(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227316/10000100000000060000000001066428_0.smil
+#EXTINF:-1, tvg-name="中央三套" tvg-logo="CCTV3HD.png" group-title="电信iTV南传源",CCTV-3综艺(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227046/10000100000000060000000000657994_0.smil
+#EXTINF:-1, tvg-name="中央四套" tvg-logo="CCTV4.png" group-title="电信iTV南传源",CCTV-4中文国际(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227284/10000100000000060000000001066429_0.smil
+#EXTINF:-1, tvg-name="中央五套" tvg-logo="CCTV 5.png" group-title="电信iTV南传源",CCTV-5体育(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227038/10000100000000060000000000657995_0.smil
+#EXTINF:-1, tvg-name="中央六套" tvg-logo="CCTV 6.png" group-title="电信iTV南传源",CCTV-6电影(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221226991/10000100000000060000000000657996_0.smil
+#EXTINF:-1, tvg-name="中央七套" tvg-logo="CCTV7HD.png" group-title="电信iTV南传源",CCTV-7军事农业(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227290/10000100000000060000000001066434_0.smil
+#EXTINF:-1, tvg-name="中央八套" tvg-logo="RTHK.png" group-title="电信iTV南传源",CCTV-8电视剧(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227041/10000100000000060000000000657998_0.smil
+#EXTINF:-1, tvg-name="中央九套" tvg-logo="RTHK.png" group-title="电信iTV南传源",CCTV-9纪录(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227272/10000100000000060000000001030757_0.smil
+#EXTINF:-1, tvg-name="中央十套" tvg-logo="RTHK.png" group-title="电信iTV南传源",CCTV-10科教(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227287/10000100000000060000000001066432_0.smil
+#EXTINF:-1, tvg-name="中央十一" tvg-logo="RTHK.png" group-title="电信iTV南传源",CCTV-11戏曲(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227319/10000100000000060000000001066511_0.smil
+#EXTINF:-1, tvg-name="中央十二" tvg-logo="RTHK.png" group-title="电信iTV南传源",CCTV-12社会与法(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227313/10000100000000060000000001066425_0.smil
+#EXTINF:-1, tvg-name="中央十三" tvg-logo="RTHK.png" group-title="电信iTV南传源",CCTV-13新闻(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227258/10000100000000060000000001066424_0.smil
+#EXTINF:-1, tvg-name="中央十四" tvg-logo="RTHK.png" group-title="电信iTV南传源",CCTV-14少儿(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227278/10000100000000060000000001066421_0.smil
+#EXTINF:-1, tvg-name="中央十五" tvg-logo="RTHK.png" group-title="电信iTV南传源",CCTV-15音乐(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227281/10000100000000060000000001066427_0.smil
+#EXTINF:-1, tvg-name="珠江台" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东珠江(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227004/00000100000000060000000000554900_0.smil
+#EXTINF:-1, tvg-name="广东新闻" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东新闻(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221226969/00000100000000060000000000554905_0.smil
+#EXTINF:-1, tvg-name="广东公共" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东公共(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221226931/00000100000000060000000000554902_0.smil
+#EXTINF:-1, tvg-name="广东体育" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东体育(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221226934/00000100000000060000000000554903_0.smil
+#EXTINF:-1, tvg-name="广东国际" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东国际(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227230/10000100000000060000000000990032_0.smil
+#EXTINF:-1, tvg-name="南方经济科教" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东经济科教(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227007/00000100000000060000000000554908_0.smil
+#EXTINF:-1, tvg-name="南方卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东南方卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221226975/00000100000000060000000000554907_0.smil
+#EXTINF:-1, tvg-name="南方综艺" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东综艺(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221226940/00000100000000060000000000554911_0.smil
+#EXTINF:-1, tvg-name="南方影视" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东影视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221226937/00000100000000060000000000554910_0.smil
+#EXTINF:-1, tvg-name="南方少儿" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东少儿(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221226989/00000100000000060000000000554886_0.smil
+#EXTINF:-1, tvg-name="嘉佳卡通" tvg-logo="RTHK.png" group-title="电信iTV南传源",嘉佳卡通(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221226972/00000100000000060000000000554906_0.smil
+#EXTINF:-1, tvg-name="广东南方购物" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东南方购物(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227200/10000100000000060000000000987154_0.smil
+#EXTINF:-1, tvg-name="房产频道" tvg-logo="RTHK.png" group-title="电信iTV南传源",房产频道(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227216/10000100000000060000000000990028_0.smil
+#EXTINF:-1, tvg-name="欧洲足球" tvg-logo="RTHK.png" group-title="电信iTV南传源",欧洲足球(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227271/10000100000000060000000000990027_0.smil
+#EXTINF:-1, tvg-name="岭南戏曲" tvg-logo="RTHK.png" group-title="电信iTV南传源",岭南戏曲(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil
+#EXTINF:-1, tvg-name="现代教育" tvg-logo="RTHK.png" group-title="电信iTV南传源",现代教育(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227233/10000100000000060000000000990060_0.smil
+#EXTINF:-1, tvg-name="会展频道" tvg-logo="RTHK.png" group-title="电信iTV南传源",会展频道(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227224/10000100000000060000000000990026_0.smil
+#EXTINF:-1, tvg-name="快乐宠物" tvg-logo="RTHK.png" group-title="电信iTV南传源",快乐宠物(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227219/10000100000000060000000000990031_0.smil
+#EXTINF:-1, tvg-name="英语辅导" tvg-logo="RTHK.png" group-title="电信iTV南传源",英语辅导(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227236/10000100000000060000000000990116_0.smil
+#EXTINF:-1, tvg-name="湖南卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",湖南卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227108/10000100000000060000000000937811_0.smil
+#EXTINF:-1, tvg-name="浙江卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",浙江卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227137/10000100000000060000000000937809_0.smil
+#EXTINF:-1, tvg-name="江苏卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",江苏卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227160/10000100000000060000000000937810_0.smil
+#EXTINF:-1, tvg-name="东方卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",东方卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227131/10000100000000060000000000937800_0.smil
+#EXTINF:-1, tvg-name="安徽卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",安徽卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227154/10000100000000060000000000937801_0.smil
+#EXTINF:-1, tvg-name="北京卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",北京卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227105/10000100000000060000000000937805_0.smil
+#EXTINF:-1, tvg-name="天津卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",天津卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227142/10000100000000060000000000937745_0.smil
+#EXTINF:-1, tvg-name="山东卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",山东卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227136/10000100000000060000000000937739_0.smil
+#EXTINF:-1, tvg-name="江西卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",江西卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227134/10000100000000060000000000937803_0.smil
+#EXTINF:-1, tvg-name="深圳卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",深圳卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227078/10000100000000060000000000937713_0.smil
+#EXTINF:-1, tvg-name="湖北卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",湖北卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227087/10000100000000060000000000937743_0.smil
+#EXTINF:-1, tvg-name="辽宁卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",辽宁卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227102/10000100000000060000000000937802_0.smil
+#EXTINF:-1, tvg-name="黑龙江卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",黑龙江卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227099/10000100000000060000000000937799_0.smil
+#EXTINF:-1, tvg-name="贵州卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",贵州卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227125/10000100000000060000000000937773_0.smil
+#EXTINF:-1, tvg-name="四川卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",四川卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227157/10000100000000060000000000937804_0.smil
+#EXTINF:-1, tvg-name="河南卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",河南卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227093/10000100000000060000000000937769_0.smil
+#EXTINF:-1, tvg-name="云南卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",云南卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227140/10000100000000060000000000937812_0.smil
+#EXTINF:-1, tvg-name="重庆卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",重庆卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227122/10000100000000060000000000937770_0.smil
+#EXTINF:-1, tvg-name="河北卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",河北卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227128/10000100000000060000000000937776_0.smil
+#EXTINF:-1, tvg-name="东南卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",东南卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227096/10000100000000060000000000937772_0.smil
+#EXTINF:-1, tvg-name="广西卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",广西卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227148/10000100000000060000000000937768_0.smil
+#EXTINF:-1, tvg-name="吉林卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",吉林卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227116/10000100000000060000000000937747_0.smil
+#EXTINF:-1, tvg-name="陕西卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",陕西卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227090/10000100000000060000000000937749_0.smil
+#EXTINF:-1, tvg-name="山西卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",山西卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227110/10000100000000060000000000937735_0.smil
+#EXTINF:-1, tvg-name="内蒙古卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",内蒙古卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227133/10000100000000060000000000937736_0.smil
+#EXTINF:-1, tvg-name="青海卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",青海卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227113/10000100000000060000000000937738_0.smil
+#EXTINF:-1, tvg-name="旅游卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",旅游卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227119/10000100000000060000000000937750_0.smil
+#EXTINF:-1, tvg-name="宁夏卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",宁夏卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227151/10000100000000060000000000937771_0.smil
+#EXTINF:-1, tvg-name="西藏卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",西藏卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227081/10000100000000060000000000937734_0.smil
+#EXTINF:-1, tvg-name="新疆卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",新疆卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227084/10000100000000060000000000937737_0.smil
+#EXTINF:-1, tvg-name="甘肃卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",甘肃卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227139/10000100000000060000000000937742_0.smil
+#EXTINF:-1, tvg-name="兵团卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",兵团卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227241/10000100000000060000000000987142_0.smil
+#EXTINF:-1, tvg-name="健康卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",健康卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227187/10000100000000060000000000937844_0.smil
+#EXTINF:-1, tvg-name="卡酷动画" tvg-logo="RTHK.png" group-title="电信iTV南传源",卡酷动画(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227111/10000100000000060000000000937814_0.smil
+#EXTINF:-1, tvg-name="金鹰卡通" tvg-logo="RTHK.png" group-title="电信iTV南传源",金鹰卡通(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227163/10000100000000060000000000937813_0.smil
+#EXTINF:-1, tvg-name="炫动卡通" tvg-logo="RTHK.png" group-title="电信iTV南传源",炫动卡通(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227212/10000100000000060000000000987175_0.smil
+#EXTINF:-1, tvg-name="山东教育" tvg-logo="RTHK.png" group-title="电信iTV南传源",山东教育(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227244/10000100000000060000000000987144_0.smil
+#EXTINF:-1, tvg-name="厦门卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",厦门卫视(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227312/10000100000000060000000003100522_0.smil
+#EXTINF:-1, tvg-name="CCTV-1综合高清" tvg-logo="RTHK.png" group-title="电信iTV南传源",CCTV-1综合高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil
+#EXTINF:-1, tvg-name="高清广东体育(测试)" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东体育高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil
+#EXTINF:-1, tvg-name="广东经济科教高清" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东经济科教高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227238/10000100000000060000000000987130_0.smil
+#EXTINF:-1, tvg-name="CCTV5＋体育赛事高清" tvg-logo="RTHK.png" group-title="电信iTV南传源",CCTV5＋体育赛事高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil
+#EXTINF:-1, tvg-name="高清广东卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",广东卫视高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227218/10000100000000060000000000988525_0.smil
+#EXTINF:-1, tvg-name="高清湖南卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",湖南卫视高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227325/10000100000000060000000001141345_0.smil
+#EXTINF:-1, tvg-name="高清浙江卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",浙江卫视高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227296/10000100000000060000000001141335_0.smil
+#EXTINF:-1, tvg-name="江苏卫视高清" tvg-logo="RTHK.png" group-title="电信iTV南传源",江苏卫视高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227027/10000100000000060000000000698853_0.smil
+#EXTINF:-1, tvg-name="高清北京卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",北京卫视高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227018/10000100000000060000000000698843_0.smil
+#EXTINF:-1, tvg-name="高清深圳卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",深圳卫视高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227267/10000100000000060000000001141334_0.smil
+#EXTINF:-1, tvg-name="高清黑龙江卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",黑龙江卫视高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227302/10000100000000060000000001141347_0.smil
+#EXTINF:-1, tvg-name="高清湖北卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",湖北卫视高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227322/10000100000000060000000001141333_0.smil
+#EXTINF:-1, tvg-name="高清天津卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",天津卫视高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227346/10000100000000060000000003100521_0.smil
+#EXTINF:-1, tvg-name="高清山东卫视" tvg-logo="RTHK.png" group-title="电信iTV南传源",山东卫视高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227215/10000100000000060000000000988473_0.smil
+#EXTINF:-1, tvg-name="高清上海东方" tvg-logo="RTHK.png" group-title="电信iTV南传源",东方卫视高清(南传源)
+rtsp://183.58.12.204/PLTV/88888905/224/3221227299/10000100000000060000000001141344_0.smil
+
+
+#EXTINF:-1, tvg-name="电视指南" tvg-logo="RTHK.png" group-title="电信iTV混合源",电视指南(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227749/10000100000000060000000004811694_0.smil
+#EXTINF:-1, tvg-name="高清广东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东卫视原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227768/10000100000000060000000005076861_0.smil
+#EXTINF:-1, tvg-name="高清深圳卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227267/10000100000000060000000001141334_0.smil
+#EXTINF:-1, tvg-name="高清上海东方" tvg-logo="RTHK.png" group-title="电信iTV混合源",东方卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227299/10000100000000060000000001141344_0.smil
+#EXTINF:-1, tvg-name="高清江苏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",江苏卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227027/10000100000000060000000000698853_0.smil
+#EXTINF:-1, tvg-name="高清浙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",浙江卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227296/10000100000000060000000001141335_0.smil
+#EXTINF:-1, tvg-name="高清北京卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",北京卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227018/10000100000000060000000000698843_0.smil
+#EXTINF:-1, tvg-name="高清湖南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖南卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227325/10000100000000060000000001141345_0.smil
+#EXTINF:-1, tvg-name="高清山东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",山东卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227215/10000100000000060000000000988473_0.smil
+#EXTINF:-1, tvg-name="高清天津卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",高清天津卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227346/10000100000000060000000003100521_0.smil
+#EXTINF:-1, tvg-name="高清湖北卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",高清湖北卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227322/10000100000000060000000001141333_0.smil
+#EXTINF:-1, tvg-name="高清安徽卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",安徽卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227156/10000100000000060000000000966355_0.smil
+#EXTINF:-1, tvg-name="高清黑龙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",高清黑龙江卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227302/10000100000000060000000001141347_0.smil
+#EXTINF:-1, tvg-name="高清辽宁卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",辽宁卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227608/10000100000000060000000004547240_0.smil
+#EXTINF:-1, tvg-name="高清重庆卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",重庆卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227767/10000100000000060000000004854046_0.smil
+#EXTINF:-1, tvg-name="南方经济科教" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东经济科教原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227811/10000100000000060000000005076860_0.smil
+#EXTINF:-1, tvg-name="广东体育" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东体育原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil
+#EXTINF:-1, tvg-name="深圳体育高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳体育高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227276/10000100000000060000000001191187_0.smil
+#EXTINF:-1, tvg-name="中国3D试验频道" tvg-logo="RTHK.png" group-title="电信iTV混合源",中国3D试验频道(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226894/00000100000000060000000000471118_0.smil
+#EXTINF:-1, tvg-name="高清中央一套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-1高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil
+#EXTINF:-1, tvg-name="高清中央二套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-2高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227634/10000100000000060000000004662503_0.smil
+#EXTINF:-1, tvg-name="CCTV5+高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV5+高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil
+#EXTINF:-1, tvg-name="高清中央七套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-7高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227620/10000100000000060000000004662504_0.smil
+#EXTINF:-1, tvg-name="高清中央九套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-9高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227617/10000100000000060000000004662501_0.smil
+#EXTINF:-1, tvg-name="高清中央十套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-10高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227631/10000100000000060000000004662500_0.smil
+#EXTINF:-1, tvg-name="高清中央十二" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-12高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227576/10000100000000060000000004662502_0.smil
+#EXTINF:-1, tvg-name="高清中央十四" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-14高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227573/10000100000000060000000004662499_0.smil
+#EXTINF:-1, tvg-name="北京纪实频道" tvg-logo="RTHK.png" group-title="电信iTV混合源",北京纪实高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227613/10000100000000060000000004490594_0.smil
+#EXTINF:-1, tvg-name="纪实频道" tvg-logo="RTHK.png" group-title="电信iTV混合源",纪实频道HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227526/10000100000000060000000004031806_0.smil
+#EXTINF:-1, tvg-name="全纪实 HD" tvg-logo="RTHK.png" group-title="电信iTV混合源",全纪实HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227750/10000100000000060000000004937875_0.smil
+#EXTINF:-1, tvg-name="魅力音乐 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",魅力音乐HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227796/10000100000000060000000004937877_0.smil
+#EXTINF:-1, tvg-name="劲爆体育 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",劲爆体育HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225951/iptv97709.smil
+#EXTINF:-1, tvg-name="游戏风云 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",游戏风云HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227794/10000100000000060000000004940629_0.smil
+#EXTINF:-1, tvg-name="欢笑剧场 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",欢笑剧场HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227791/10000100000000060000000004937876_0.smil
+#EXTINF:-1, tvg-name="都市剧场 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",都市剧场HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227790/10000100000000060000000004937871_0.smil
+#EXTINF:-1, tvg-name="动漫秀场 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",动漫秀场HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227788/10000100000000060000000004937873_0.smil
+#EXTINF:-1, tvg-name="生活时尚 (订购)"tvg-logo="RTHK.png" group-title="电信iTV混合源",生活时尚HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227747/10000100000000060000000004937872_0.smil
+#EXTINF:-1, tvg-name="幸福彩HD" tvg-logo="RTHK.png" group-title="电信iTV混合源",幸福彩HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227793/10000100000000060000000004937874_0.smil
+#EXTINF:-1, tvg-name="广场舞-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",广场舞-IPTV高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227762/10000100000000060000000005034007_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",导视-IPTV高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227808/10000100000000060000000005034008_0.smil
+#EXTINF:-1, tvg-name="广东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221226963/00000100000000060000000000554901_0.smil
+#EXTINF:-1, tvg-name="珠江台" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东珠江(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227004/00000100000000060000000000554900_0.smil
+#EXTINF:-1, tvg-name="广东新闻" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东新闻(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221226969/00000100000000060000000000554905_0.smil
+#EXTINF:-1, tvg-name="广东公共" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东公共(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221226931/00000100000000060000000000554902_0.smil
+#EXTINF:-1, tvg-name="广东体育" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东体育(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221226934/00000100000000060000000000554903_0.smil
+#EXTINF:-1, tvg-name="广东国际" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东国际(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227230/10000100000000060000000000990032_0.smil
+#EXTINF:-1, tvg-name="南方经济科教" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东经济科教(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227007/00000100000000060000000000554908_0.smil
+#EXTINF:-1, tvg-name="南方卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东南方卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221226975/00000100000000060000000000554907_0.smil
+#EXTINF:-1, tvg-name="南方综艺" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东综艺(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221226940/00000100000000060000000000554911_0.smil
+#EXTINF:-1, tvg-name="南方影视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东影视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221226937/00000100000000060000000000554910_0.smil
+#EXTINF:-1, tvg-name="南方少儿" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东少儿(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221226989/00000100000000060000000000554886_0.smil
+#EXTINF:-1, tvg-name="嘉佳卡通" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东嘉佳卡通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221226972/00000100000000060000000000554906_0.smil
+#EXTINF:-1, tvg-name="南方购物" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东南方购物(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227200/10000100000000060000000000987154_0.smil
+#EXTINF:-1, tvg-name="欧洲足球" tvg-logo="RTHK.png" group-title="电信iTV混合源",欧洲足球(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227271/10000100000000060000000000990027_0.smil
+#EXTINF:-1, tvg-name="岭南戏曲" tvg-logo="RTHK.png" group-title="电信iTV混合源",岭南戏曲(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil
+#EXTINF:-1, tvg-name="房产频道" tvg-logo="RTHK.png" group-title="电信iTV混合源",房产频道(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227216/10000100000000060000000000990028_0.smil
+#EXTINF:-1, tvg-name="现代教育" tvg-logo="RTHK.png" group-title="电信iTV混合源",现代教育(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227233/10000100000000060000000000990060_0.smil
+#EXTINF:-1, tvg-name="会展频道" tvg-logo="RTHK.png" group-title="电信iTV混合源",会展频道(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227224/10000100000000060000000000990026_0.smil
+#EXTINF:-1, tvg-name="移动频道" tvg-logo="RTHK.png" group-title="电信iTV混合源",移动频道(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227209/10000100000000060000000000987164_0.smil
+#EXTINF:-1, tvg-name="快乐宠物" tvg-logo="RTHK.png" group-title="电信iTV混合源",快乐宠物(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227219/10000100000000060000000000990031_0.smil
+#EXTINF:-1, tvg-name="英语辅导" tvg-logo="RTHK.png" group-title="电信iTV混合源",英语辅导(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227236/10000100000000060000000000990116_0.smil
+#EXTINF:-1, tvg-name="中央一套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-1综合(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227255/10000100000000060000000001066420_0.smil
+#EXTINF:-1, tvg-name="中央二套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-2财经(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227316/10000100000000060000000001066428_0.smil
+#EXTINF:-1, tvg-name="中央三套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-3综艺(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227046/10000100000000060000000000657994_0.smil
+#EXTINF:-1, tvg-name="中央四套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-4中文国际(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227284/10000100000000060000000001066429_0.smil
+#EXTINF:-1, tvg-name="中央五套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-5体育(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227038/10000100000000060000000000657995_0.smil
+#EXTINF:-1, tvg-name="中央六套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-6电影(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221226991/10000100000000060000000000657996_0.smil
+#EXTINF:-1, tvg-name="中央七套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-7军事农业(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227290/10000100000000060000000001066434_0.smil
+#EXTINF:-1, tvg-name="中央八套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-8电视剧(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227041/10000100000000060000000000657998_0.smil
+#EXTINF:-1, tvg-name="中央九套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-9纪录(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227272/10000100000000060000000001030757_0.smil
+#EXTINF:-1, tvg-name="中央十套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-10科教(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227287/10000100000000060000000001066432_0.smil
+#EXTINF:-1, tvg-name="中央十一" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-11戏曲(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227319/10000100000000060000000001066511_0.smil
+#EXTINF:-1, tvg-name="中央十二" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-12社会与法(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227313/10000100000000060000000001066425_0.smil
+#EXTINF:-1, tvg-name="中央十三" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-13新闻(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227258/10000100000000060000000001066424_0.smil
+#EXTINF:-1, tvg-name="中央十四" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-14少儿(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227278/10000100000000060000000001066421_0.smil
+#EXTINF:-1, tvg-name="中央十五" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-15音乐(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227281/10000100000000060000000001066427_0.smil
+#EXTINF:-1, tvg-name="中央新闻" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-NEWS(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227064/10000100000000060000000000698831_0.smil
+#EXTINF:-1, tvg-name="湖南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227108/10000100000000060000000000937811_0.smil
+#EXTINF:-1, tvg-name="浙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",浙江卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227137/10000100000000060000000000937809_0.smil
+#EXTINF:-1, tvg-name="江苏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",江苏卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227160/10000100000000060000000000937810_0.smil
+#EXTINF:-1, tvg-name="东方卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",东方卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227131/10000100000000060000000000937800_0.smil
+#EXTINF:-1, tvg-name="安徽卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",安徽卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227154/10000100000000060000000000937801_0.smil
+#EXTINF:-1, tvg-name="北京卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",北京卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227105/10000100000000060000000000937805_0.smil
+#EXTINF:-1, tvg-name="天津卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",天津卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227142/10000100000000060000000000937745_0.smil
+#EXTINF:-1, tvg-name="山东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",山东卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227136/10000100000000060000000000937739_0.smil
+#EXTINF:-1, tvg-name="江西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",江西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227134/10000100000000060000000000937803_0.smil
+#EXTINF:-1, tvg-name="深圳卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227078/10000100000000060000000000937713_0.smil
+#EXTINF:-1, tvg-name="湖北卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖北卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227087/10000100000000060000000000937743_0.smil
+#EXTINF:-1, tvg-name="辽宁卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",辽宁卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227102/10000100000000060000000000937802_0.smil
+#EXTINF:-1, tvg-name="黑龙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",黑龙江卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227099/10000100000000060000000000937799_0.smil
+#EXTINF:-1, tvg-name="贵州卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",贵州卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227125/10000100000000060000000000937773_0.smil
+#EXTINF:-1, tvg-name="四川卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",四川卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227157/10000100000000060000000000937804_0.smil
+#EXTINF:-1, tvg-name="河南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",河南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227093/10000100000000060000000000937769_0.smil
+#EXTINF:-1, tvg-name="云南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",云南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227140/10000100000000060000000000937812_0.smil
+#EXTINF:-1, tvg-name="重庆卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",重庆卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227122/10000100000000060000000000937770_0.smil
+#EXTINF:-1, tvg-name="河北卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",河北卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227128/10000100000000060000000000937776_0.smil
+#EXTINF:-1, tvg-name="东南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",东南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227096/10000100000000060000000000937772_0.smil
+#EXTINF:-1, tvg-name="广西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227148/10000100000000060000000000937768_0.smil
+#EXTINF:-1, tvg-name="吉林卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",吉林卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227116/10000100000000060000000000937747_0.smil
+#EXTINF:-1, tvg-name="陕西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",陕西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227090/10000100000000060000000000937749_0.smil
+#EXTINF:-1, tvg-name="山西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",山西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227110/10000100000000060000000000937735_0.smil
+#EXTINF:-1, tvg-name="内蒙古卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",内蒙古卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227133/10000100000000060000000000937736_0.smil
+#EXTINF:-1, tvg-name="青海卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",青海卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227113/10000100000000060000000000937738_0.smil
+#EXTINF:-1, tvg-name="旅游卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",旅游卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227119/10000100000000060000000000937750_0.smil
+#EXTINF:-1, tvg-name="宁夏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",宁夏卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227151/10000100000000060000000000937771_0.smil
+#EXTINF:-1, tvg-name="西藏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",西藏卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227081/10000100000000060000000000937734_0.smil
+#EXTINF:-1, tvg-name="新疆卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",新疆卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227084/10000100000000060000000000937737_0.smil
+#EXTINF:-1, tvg-name="甘肃卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",甘肃卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227139/10000100000000060000000000937742_0.smil
+#EXTINF:-1, tvg-name="兵团卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",兵团卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227241/10000100000000060000000000987142_0.smil
+#EXTINF:-1, tvg-name="健康卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",健康卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227187/10000100000000060000000000937844_0.smil
+#EXTINF:-1, tvg-name="卡酷动画" tvg-logo="RTHK.png" group-title="电信iTV混合源",卡酷动画(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227111/10000100000000060000000000937814_0.smil
+#EXTINF:-1, tvg-name="金鹰卡通" tvg-logo="RTHK.png" group-title="电信iTV混合源",金鹰卡通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227163/10000100000000060000000000937813_0.smil
+#EXTINF:-1, tvg-name="炫动卡通" tvg-logo="RTHK.png" group-title="电信iTV混合源",炫动卡通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227212/10000100000000060000000000987175_0.smil
+#EXTINF:-1, tvg-name="CETV-1" tvg-logo="RTHK.png" group-title="电信iTV混合源",CETV-1(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227247/10000100000000060000000000987145_0.smil
+#EXTINF:-1, tvg-name="山东教育" tvg-logo="RTHK.png" group-title="电信iTV混合源",山东教育(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227244/10000100000000060000000000987144_0.smil
+#EXTINF:-1, tvg-name="财富天下" tvg-logo="RTHK.png" group-title="电信iTV混合源",财富天下(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227152/10000100000000060000000000937843_0.smil
+#EXTINF:-1, tvg-name="厦门卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",厦门卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227312/10000100000000060000000003100522_0.smil
+#EXTINF:-1, tvg-name="凤凰中文" tvg-logo="RTHK.png" group-title="电信iTV混合源",凤凰中文(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227553/10000100000000060000000004330988_0.smil
+#EXTINF:-1, tvg-name="澳亚卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",澳亚卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227542/10000100000000060000000004330987_0.smil
+#EXTINF:-1, tvg-name="新版直播" tvg-logo="RTHK.png" group-title="电信iTV混合源",新版直播(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227735/10000100000000060000000004928768_0.smil
+#EXTINF:-1, tvg-name="中国微电影" tvg-logo="RTHK.png" group-title="电信iTV混合源",中国微电影(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227770/10000100000000060000000004913830_0.smil
+#EXTINF:-1, tvg-name="IPTV谍战剧场" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV谍战剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227158/10000100000000060000000000937867_0.smil
+#EXTINF:-1, tvg-name="IPTV小品" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV小品(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227135/10000100000000060000000000937845_0.smil
+#EXTINF:-1, tvg-name="IPTV野外" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV野外(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227190/10000100000000060000000000937868_0.smil
+#EXTINF:-1, tvg-name="IPTV法治" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV法治(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227155/10000100000000060000000000937846_0.smil
+#EXTINF:-1, tvg-name="IPTV6＋" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV6＋(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227021/10000100000000060000000000698846_0.smil
+#EXTINF:-1, tvg-name="经典电影" tvg-logo="RTHK.png" group-title="电信iTV混合源",经典电影(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227204/10000100000000060000000000987156_0.smil
+#EXTINF:-1, tvg-name="IPTV8＋" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV8＋(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227012/10000100000000060000000000698838_0.smil
+#EXTINF:-1, tvg-name="热播剧场" tvg-logo="RTHK.png" group-title="电信iTV混合源",热播剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227203/10000100000000060000000000987157_0.smil
+#EXTINF:-1, tvg-name="IPTV3＋" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV3＋(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227024/10000100000000060000000000698849_0.smil
+#EXTINF:-1, tvg-name="IPTV5＋" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV5＋(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227073/10000100000000060000000000698847_0.smil
+#EXTINF:-1, tvg-name="少儿动画" tvg-logo="RTHK.png" group-title="电信iTV混合源",少儿动画(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227070/10000100000000060000000000698839_0.smil
+#EXTINF:-1, tvg-name="魅力时尚" tvg-logo="RTHK.png" group-title="电信iTV混合源",魅力时尚(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227015/10000100000000060000000000698840_0.smil
+#EXTINF:-1, tvg-name="收视指南" tvg-logo="RTHK.png" group-title="电信iTV混合源",收视指南(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227222/10000100000000060000000000990034_0.smil
+#EXTINF:-1, tvg-name="高尔夫网球" tvg-logo="RTHK.png" group-title="电信iTV混合源",高尔夫网球(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227720/10000100000000060000000004811698_0.smil
+#EXTINF:-1, tvg-name="风云剧场" tvg-logo="RTHK.png" group-title="电信iTV混合源",风云剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227746/10000100000000060000000004811691_0.smil
+#EXTINF:-1, tvg-name="风云音乐" tvg-logo="RTHK.png" group-title="电信iTV混合源",风云音乐(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227766/10000100000000060000000004811690_0.smil
+#EXTINF:-1, tvg-name="怀旧剧场" tvg-logo="RTHK.png" group-title="电信iTV混合源",怀旧剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227714/10000100000000060000000004811689_0.smil
+#EXTINF:-1, tvg-name="书画" tvg-logo="RTHK.png" group-title="电信iTV混合源",书画(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227755/10000100000000060000000004812391_0.smil
+#EXTINF:-1, tvg-name="梨园" tvg-logo="RTHK.png" group-title="电信iTV混合源",梨园(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227729/10000100000000060000000004812398_0.smil
+#EXTINF:-1, tvg-name="靓妆频道 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",靓妆(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227761/10000100000000060000000004812397_0.smil
+#EXTINF:-1, tvg-name="国学" tvg-logo="RTHK.png" group-title="电信iTV混合源",国学(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227763/10000100000000060000000004811687_0.smil
+#EXTINF:-1, tvg-name="文物宝库" tvg-logo="RTHK.png" group-title="电信iTV混合源",文物宝库(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227775/10000100000000060000000004812396_0.smil
+#EXTINF:-1, tvg-name="现代女性" tvg-logo="RTHK.png" group-title="电信iTV混合源",现代女性(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227726/10000100000000060000000004812395_0.smil
+#EXTINF:-1, tvg-name="彩民在线" tvg-logo="RTHK.png" group-title="电信iTV混合源",彩民在线(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227758/10000100000000060000000004812394_0.smil
+#EXTINF:-1, tvg-name="摄影" tvg-logo="RTHK.png" group-title="电信iTV混合源",摄影(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227772/10000100000000060000000004812393_0.smil
+#EXTINF:-1, tvg-name="DV生活" tvg-logo="RTHK.png" group-title="电信iTV混合源",DV生活(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227723/10000100000000060000000004812392_0.smil
+#EXTINF:-1, tvg-name="第一剧场" tvg-logo="RTHK.png" group-title="电信iTV混合源",第一剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227717/10000100000000060000000004811692_0.smil
+#EXTINF:-1, tvg-name="国防军事（订购）" tvg-logo="RTHK.png" group-title="电信iTV混合源",国防军事(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227743/10000100000000060000000004811688_0.smil
+#EXTINF:-1, tvg-name="风云足球（订购）" tvg-logo="RTHK.png" group-title="电信iTV混合源",风云足球(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227752/10000100000000060000000004811697_0.smil
+#EXTINF:-1, tvg-name="女性时尚" tvg-logo="RTHK.png" group-title="电信iTV混合源",女性时尚(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227769/10000100000000060000000004811693_0.smil
+#EXTINF:-1, tvg-name="高清广东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227218/10000100000000060000000000988525_0.smil
+#EXTINF:-1, tvg-name="南方经济科教" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东经济科教高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227238/10000100000000060000000000987130_0.smil
+#EXTINF:-1, tvg-name="高清广东体育(测试)" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东体育高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil
+#EXTINF:-1, tvg-name="高清湖南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖南卫视原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227581/10000100000000060000000004462928_0.smil
+#EXTINF:-1, tvg-name="高清深圳卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳卫视原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227543/10000100000000060000000004462919_0.smil
+#EXTINF:-1, tvg-name="高清黑龙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",黑龙江卫视原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227604/10000100000000060000000004462921_0.smil
+#EXTINF:-1, tvg-name="高清湖北卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖北卫视原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227584/10000100000000060000000004462929_0.smil
+#EXTINF:-1, tvg-name="高清天津卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",天津卫视原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227575/10000100000000060000000004462922_0.smil
+#EXTINF:-1, tvg-name="高清山东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",山东卫视原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227578/10000100000000060000000004462924_0.smil
+#EXTINF:-1, tvg-name="高清中央一套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-1原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227610/10000100000000060000000004462931_0.smil
+#EXTINF:-1, tvg-name="高清浙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",浙江卫视原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227546/10000100000000060000000004462925_0.smil
+#EXTINF:-1, tvg-name="高清江苏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",江苏卫视原码(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888905/224/3221227607/10000100000000060000000004462927_0.smil
+#EXTINF:-1, tvg-name="广东百视通" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东百视通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225560/0000000003li_btv.smil
+#EXTINF:-1, tvg-name="CCTV-1" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-1(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225565/00000000063d.smil
+#EXTINF:-1, tvg-name="CCTV-2" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-2(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225566/00000000069x.smil
+#EXTINF:-1, tvg-name="CCTV-4" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-4(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225567/00000000069z.smil
+#EXTINF:-1, tvg-name="CCTV-7" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-7(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225728/000000000gl8.smil
+#EXTINF:-1, tvg-name="CCTV-10" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-10(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225572/0000000006a7.smil
+#EXTINF:-1, tvg-name="CCTV-11" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-11(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225573/0000000006a8.smil
+#EXTINF:-1, tvg-name="CCTV-12" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-12(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225575/0000000006aa.smil
+#EXTINF:-1, tvg-name="CCTV-NEWS" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-NEWS(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225570/0000000006a5.smil
+#EXTINF:-1, tvg-name="CCTV-新闻" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-新闻(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225576/0000000006ab.smil
+#EXTINF:-1, tvg-name="CCTV-音乐" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-音乐(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225571/0000000006a6.smil
+#EXTINF:-1, tvg-name="CCTV-少儿" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-少儿(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225578/0000000006ad.smil
+#EXTINF:-1, tvg-name="CCTV-高网" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-高网(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225989/iptv121948.smil
+#EXTINF:-1, tvg-name="优购物" tvg-logo="RTHK.png" group-title="电信iTV混合源",优购物(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227510/10000100000000060000000004307670_0.smil
+#EXTINF:-1, tvg-name="广东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225598/000000000764.smil
+#EXTINF:-1, tvg-name="深圳卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225860/iptv59993.smil
+#EXTINF:-1, tvg-name="上海东方" tvg-logo="RTHK.png" group-title="电信iTV混合源",东方卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225585/0000000006ak.smil
+#EXTINF:-1, tvg-name="北京卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",北京卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225607/0000000007jc.smil
+#EXTINF:-1, tvg-name="湖南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225582/0000000006ah.smil
+#EXTINF:-1, tvg-name="导江苏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",江苏卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225611/0000000007jg.smil
+#EXTINF:-1, tvg-name="安徽卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",安徽卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225596/000000000761.smil
+#EXTINF:-1, tvg-name="天津卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",天津卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225608/0000000007jd.smil
+#EXTINF:-1, tvg-name="四川卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",四川卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225679/0000000008um.smil
+#EXTINF:-1, tvg-name="重庆卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",重庆卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225609/0000000007je.smil
+#EXTINF:-1, tvg-name="广西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225580/0000000006af.smil
+#EXTINF:-1, tvg-name="浙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",浙江卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225610/0000000007jf.smil
+#EXTINF:-1, tvg-name="湖北卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖北卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225680/0000000008un.smil
+#EXTINF:-1, tvg-name="江西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",江西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225621/0000000007jq.smil
+#EXTINF:-1, tvg-name="山东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",山东卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225613/0000000007ji.smil
+#EXTINF:-1, tvg-name="山西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",山西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225614/0000000007jj.smil
+#EXTINF:-1, tvg-name="河南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",河南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225577/0000000006ac.smil
+#EXTINF:-1, tvg-name="贵州卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",贵州卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225622/0000000007jr.smil
+#EXTINF:-1, tvg-name="吉林卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",吉林卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225612/0000000007jh.smil
+#EXTINF:-1, tvg-name="辽宁卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",辽宁卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225623/0000000007js.smil
+#EXTINF:-1, tvg-name="黑龙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",黑龙江卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225619/0000000007jo.smil
+#EXTINF:-1, tvg-name="旅游卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",旅游卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225616/0000000007jl.smil
+#EXTINF:-1, tvg-name="东南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",东南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225615/0000000007jk.smil
+#EXTINF:-1, tvg-name="青海卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",青海卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225808/000000000xdv.smil
+#EXTINF:-1, tvg-name="西藏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",西藏卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226661/00000100000000060000000000249556_0.smil
+#EXTINF:-1, tvg-name="内蒙古卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",内蒙古卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225946/iptv95986.smil
+#EXTINF:-1, tvg-name="甘肃卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",甘肃卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221226051/iptv233196.smil
+#EXTINF:-1, tvg-name="宁夏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",宁夏卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221226052/iptv233197.smil
+#EXTINF:-1, tvg-name="新疆卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",新疆卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221226049/iptv233194.smil
+#EXTINF:-1, tvg-name="兵团卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",兵团卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221226050/iptv233195.smil
+#EXTINF:-1, tvg-name="陕西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",陕西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226723/00000100000000060000000000249555_0.smil
+#EXTINF:-1, tvg-name="河北卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",河北卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226749/00000100000000060000000000249554_0.smil
+#EXTINF:-1, tvg-name="云南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",云南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226658/00000100000000060000000000249553_0.smil
+#EXTINF:-1, tvg-name="纪实频道" tvg-logo="RTHK.png" group-title="电信iTV混合源",纪实频道(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227529/10000100000000060000000004032123_0.smil
+#EXTINF:-1, tvg-name="看看新闻" tvg-logo="RTHK.png" group-title="电信iTV混合源",看看新闻(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226853/00000100000000060000000000460524_0.smil
+#EXTINF:-1, tvg-name="嘉佳卡通" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东嘉佳卡通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226746/00000100000000060000000000249551_0.smil
+#EXTINF:-1, tvg-name="炫动卡通" tvg-logo="RTHK.png" group-title="电信iTV混合源",炫动卡通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225678/0000000008ul.smil
+#EXTINF:-1, tvg-name="金鹰卡通" tvg-logo="RTHK.png" group-title="电信iTV混合源",金鹰卡通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225945/iptv95966.smil
+#EXTINF:-1, tvg-name="卡酷卡通" tvg-logo="RTHK.png" group-title="电信iTV混合源",卡酷卡通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221226048/iptv233193.smil
+#EXTINF:-1, tvg-name="欧洲足球" tvg-logo="RTHK.png" group-title="电信iTV混合源",欧洲足球(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226929/00000100000000060000000000460525_0.smil
+#EXTINF:-1, tvg-name="空中课堂" tvg-logo="RTHK.png" group-title="电信iTV混合源",空中课堂(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226664/00000100000000060000000000249559_0.smil
+#EXTINF:-1, tvg-name="中国气象" tvg-logo="RTHK.png" group-title="电信iTV混合源",中国气象(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225799/000000000tb6.smil
+#EXTINF:-1, tvg-name="中国教育-1" tvg-logo="RTHK.png" group-title="电信iTV混合源",中国教育-1(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226752/00000100000000060000000000249557_0.smil
+#EXTINF:-1, tvg-name="中国教育-2" tvg-logo="RTHK.png" group-title="电信iTV混合源",中国教育-2(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226726/00000100000000060000000000249558_0.smil
+#EXTINF:-1, tvg-name="中国金融" tvg-logo="RTHK.png" group-title="电信iTV混合源",中国金融(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227264/10000100000000060000000001111349_0.smil
+#EXTINF:-1, tvg-name="四海钓鱼" tvg-logo="RTHK.png" group-title="电信iTV混合源",四海钓鱼(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227784/10000100000000060000000004937865_0.smil
+#EXTINF:-1, tvg-name="人物" tvg-logo="RTHK.png" group-title="电信iTV混合源",人物(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227785/10000100000000060000000004937870_0.smil
+#EXTINF:-1, tvg-name="优优宝贝" tvg-logo="RTHK.png" group-title="电信iTV混合源",优优宝贝(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227799/10000100000000060000000004940537_0.smil
+#EXTINF:-1, tvg-name="收藏天下" tvg-logo="RTHK.png" group-title="电信iTV混合源",收藏天下(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227782/10000100000000060000000004937867_0.smil
+#EXTINF:-1, tvg-name="央广健康" tvg-logo="RTHK.png" group-title="电信iTV混合源",央广健康(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227787/10000100000000060000000004937868_0.smil
+#EXTINF:-1, tvg-name="家庭理财" tvg-logo="RTHK.png" group-title="电信iTV混合源",家庭理财(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227744/10000100000000060000000004937869_0.smil
+#EXTINF:-1, tvg-name="职业指南" tvg-logo="RTHK.png" group-title="电信iTV混合源",职业指南(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227741/10000100000000060000000004937866_0.smil
+#EXTINF:-1, tvg-name="证券资讯" tvg-logo="RTHK.png" group-title="电信iTV混合源",证券资讯(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227802/10000100000000060000000004940622_0.smil
+#EXTINF:-1, tvg-name="快乐宠物" tvg-logo="RTHK.png" group-title="电信iTV混合源",快乐宠物(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227805/10000100000000060000000004940625_0.smil
+#EXTINF:-1, tvg-name="都市剧场" tvg-logo="RTHK.png" group-title="电信iTV混合源",都市剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225681/0000000008uo.smil
+#EXTINF:-1, tvg-name="欢笑剧场 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",欢笑剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225664/0000000008u7.smil
+#EXTINF:-1, tvg-name="劲爆体育" tvg-logo="RTHK.png" group-title="电信iTV混合源",劲爆体育(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225642/0000000008tk.smil
+#EXTINF:-1, tvg-name="生活时尚" tvg-logo="RTHK.png" group-title="电信iTV混合源",生活时尚(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225646/0000000008tp.smil
+#EXTINF:-1, tvg-name="全纪实" tvg-logo="RTHK.png" group-title="电信iTV混合源",全纪实(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225764/000000000oqx.smil
+#EXTINF:-1, tvg-name="法治天地 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",法治天地(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225677/0000000008uk.smil
+#EXTINF:-1, tvg-name="东方财经 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",东方财经(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225581/0000000006ag.smil
+#EXTINF:-1, tvg-name="魅力音乐 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",魅力音乐(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225651/0000000008tu.smil
+#EXTINF:-1, tvg-name="七彩戏剧（订购）" tvg-logo="RTHK.png" group-title="电信iTV混合源",七彩戏剧(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225645/0000000008to.smil
+#EXTINF:-1, tvg-name="动漫秀场 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",动漫秀场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225643/0000000008tm.smil
+#EXTINF:-1, tvg-name="游戏风云 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",游戏风云(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225761/000000000nce.smil
+#EXTINF:-1, tvg-name="极速汽车 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",极速汽车(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225650/0000000008tt.smil
+#EXTINF:-1, tvg-name="金色频道 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",金色频道(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225594/0000000006js.smil
+#EXTINF:-1, tvg-name="高清中央一套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-1 HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225953/iptv106719.smil
+#EXTINF:-1, tvg-name="高清中央" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-高清HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225730/000000000grr.smil
+#EXTINF:-1, tvg-name="高清湖南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖南卫视HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221226017/iptv186564.smil
+#EXTINF:-1, tvg-name="高清江苏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",江苏卫视HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225954/iptv106720.smil
+#EXTINF:-1, tvg-name="高清上海东方" tvg-logo="RTHK.png" group-title="电信iTV混合源",东方卫视HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225956/iptv106722.smil
+#EXTINF:-1, tvg-name="高清广东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东卫视HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221226016/iptv186563.smil
+#EXTINF:-1, tvg-name="高清深圳卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳卫视HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221226014/iptv186578.smil
+#EXTINF:-1, tvg-name="高清北京卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",北京卫视HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221226015/iptv186562.smil
+#EXTINF:-1, tvg-name="高清浙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",浙江卫视HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225955/iptv106721.smil
+#EXTINF:-1, tvg-name="高清黑龙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",黑龙江卫视HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221226018/iptv186565.smil
+#EXTINF:-1, tvg-name="高清湖北卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖北卫视HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227130/10000100000000060000000000863335_0.smil
+#EXTINF:-1, tvg-name="高清山东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",山东卫视HD(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227075/10000100000000060000000000863336_0.smil
+#EXTINF:-1, tvg-name="3D电视试验频道" tvg-logo="RTHK.png" group-title="电信iTV混合源",3D试验(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226942/00000100000000060000000000544883_0.smil
+#EXTINF:-1, tvg-name="赛事精选-1" tvg-logo="RTHK.png" group-title="电信iTV混合源",赛事精选-1(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225705/000000000b8p.smil
+#EXTINF:-1, tvg-name="网球" tvg-logo="RTHK.png" group-title="电信iTV混合源",网球(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225927/iptv93342.smil
+#EXTINF:-1, tvg-name="赛事精选-2" tvg-logo="RTHK.png" group-title="电信iTV混合源",赛事精选-2(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225733/000000000h8b.smil
+#EXTINF:-1, tvg-name="高尔夫" tvg-logo="RTHK.png" group-title="电信iTV混合源",高尔夫(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225864/iptv61988.smil
+#EXTINF:-1, tvg-name="赛事精选-3" tvg-logo="RTHK.png" group-title="电信iTV混合源",赛事精选-3(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225944/iptv95872.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室1(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226524/00000100000000060000000000018575_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室2(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226538/00000100000000060000000000018576_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室3(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226504/00000100000000060000000000018577_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室4(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226781/00000100000000060000000000359533_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室5(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226860/00000100000000060000000000359534_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室6(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227328/10000100000000060000000001229736_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室7(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227282/10000100000000060000000001230126_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室8(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226527/00000100000000060000000000018578_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室9(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225981/iptv114375.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室10(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225982/iptv114376.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室11(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225983/iptv114377.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室12(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225988/iptv114391.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室13(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225984/iptv114378.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室14(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225985/iptv114379.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室15(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225986/iptv114380.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",直播室16(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225987/iptv114381.smil
+#EXTINF:-1, tvg-name="电竞天堂" tvg-logo="RTHK.png" group-title="电信iTV混合源",电竞天堂(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225838/0000000013lj.smil
+#EXTINF:-1, tvg-name="竞G场" tvg-logo="RTHK.png" group-title="电信iTV混合源",竞G场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225837/0000000013lh.smil
+#EXTINF:-1, tvg-name="超级玩家" tvg-logo="RTHK.png" group-title="电信iTV混合源",超级玩家(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225839/0000000013lk.smil
+#EXTINF:-1, tvg-name="CCTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225648/0000000008tr.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",营业厅轮播(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221226008/iptv173811_btv.smil
+#EXTINF:-1, tvg-name="喜剧影院" tvg-logo="RTHK.png" group-title="电信iTV混合源",喜剧影院(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225928/iptv93343.smil
+#EXTINF:-1, tvg-name="香江影院" tvg-logo="RTHK.png" group-title="电信iTV混合源",香江影院(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225929/iptv93344.smil
+#EXTINF:-1, tvg-name="海外影院" tvg-logo="RTHK.png" group-title="电信iTV混合源",海外影院(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226622/00000100000000060000000000201757_0.smil
+#EXTINF:-1, tvg-name="动作影院" tvg-logo="RTHK.png" group-title="电信iTV混合源",动作影院(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226696/00000100000000060000000000201756_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",热门剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225930/iptv93345.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",股评汇(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225933/iptv93348.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",怀旧剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225934/iptv93349.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",古装剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225957/iptv107550.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",喜剧剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225958/iptv107555.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",偶像剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226731/00000100000000060000000000201755_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",谍战剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221226728/00000100000000060000000000201739_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",热门动画(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225931/iptv93346.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",经典动画(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225932/iptv93347.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",幼幼乐园(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225959/iptv107556.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",英语世界(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225960/iptv107557.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",娱乐精选(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225770/000000000pkf.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",热门综艺(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225834/0000000013le.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",中国达人秀(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225771/000000000pkj.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",演唱会(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225961/iptv107558.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",怀旧金曲(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225962/iptv107559.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",看天下精选(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225963/iptv107560.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",科技探索(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225766/000000000oqz.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",自然大观(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225765/000000000oqy.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",旅游(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225938/iptv94935.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",女人(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/0/3221225939/iptv94937.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳广信(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888888/224/3221227735/10000100000000060000000004928768_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-1(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226767/00000100000000060000000000268440_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-2(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226788/00000100000000060000000000315939_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",央视精品1(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226920/00000100000000060000000000422941_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-4(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226812/00000100000000060000000000339394_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",央视精品2(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226876/00000100000000060000000000422939_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",央视精品3(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226879/00000100000000060000000000422947_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-7(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226777/00000100000000060000000000339393_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",央视精品4(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226850/00000100000000060000000000422940_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-9(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227035/10000100000000060000000000657630_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-10(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226780/00000100000000060000000000339411_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-11(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226815/00000100000000060000000000339412_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-12(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226733/00000100000000060000000000339413_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-13(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226783/00000100000000060000000000339414_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-14(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226818/00000100000000060000000000339415_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-15(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226736/00000100000000060000000000339416_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-NEWS(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226786/00000100000000060000000000339417_0.smil
+#EXTINF:-1, tvg-name="广东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226703/00000100000000060000000000315940_0.smil
+#EXTINF:-1, tvg-name="南方卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",南方卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226739/00000100000000060000000000339782_0.smil
+#EXTINF:-1, tvg-name="湖南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226789/00000100000000060000000000339780_0.smil
+#EXTINF:-1, tvg-name="北京卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",北京卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226745/00000100000000060000000000339791_0.smil
+#EXTINF:-1, tvg-name="江苏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",江苏卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226810/00000100000000060000000000341917_0.smil
+#EXTINF:-1, tvg-name="东方卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",东方卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226830/00000100000000060000000000339790_0.smil
+#EXTINF:-1, tvg-name="浙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",浙江卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226795/00000100000000060000000000339786_0.smil
+#EXTINF:-1, tvg-name="四川卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",四川卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226792/00000100000000060000000000339783_0.smil
+#EXTINF:-1, tvg-name="吉林卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",吉林卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226824/00000100000000060000000000339784_0.smil
+#EXTINF:-1, tvg-name="东南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",东南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226801/00000100000000060000000000340217_0.smil
+#EXTINF:-1, tvg-name="湖北卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖北卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226821/00000100000000060000000000339781_0.smil
+#EXTINF:-1, tvg-name="重庆卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",重庆卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226757/00000100000000060000000000340219_0.smil
+#EXTINF:-1, tvg-name="陕西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",陕西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226839/00000100000000060000000000340218_0.smil
+#EXTINF:-1, tvg-name="安徽卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",安徽卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226742/00000100000000060000000000339785_0.smil
+#EXTINF:-1, tvg-name="天津卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",天津卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226804/00000100000000060000000000340220_0.smil
+#EXTINF:-1, tvg-name="山东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",山东卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227400/10000100000000060000000003854639_0.smil
+#EXTINF:-1, tvg-name="山西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",山西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226917/00000100000000060000000000422407_0.smil
+#EXTINF:-1, tvg-name="内蒙古卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",内蒙古卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226841/00000100000000060000000000422406_0.smil
+#EXTINF:-1, tvg-name="辽宁卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",辽宁卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226870/00000100000000060000000000422405_0.smil
+#EXTINF:-1, tvg-name="江西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",江西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226914/00000100000000060000000000422404_0.smil
+#EXTINF:-1, tvg-name="贵州卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",贵州卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226867/00000100000000060000000000422403_0.smil
+#EXTINF:-1, tvg-name="新疆卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",新疆卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226838/00000100000000060000000000422402_0.smil
+#EXTINF:-1, tvg-name="河北卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",河北卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226864/00000100000000060000000000422401_0.smil
+#EXTINF:-1, tvg-name="云南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",云南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226911/00000100000000060000000000422400_0.smil
+#EXTINF:-1, tvg-name="旅游卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",旅游卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226835/00000100000000060000000000422399_0.smil
+#EXTINF:-1, tvg-name="广西卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广西卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226861/00000100000000060000000000422398_0.smil
+#EXTINF:-1, tvg-name="黑龙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",黑龙江卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226908/00000100000000060000000000422397_0.smil
+#EXTINF:-1, tvg-name="西藏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",西藏卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226832/00000100000000060000000000422396_0.smil
+#EXTINF:-1, tvg-name="河南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",河南卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226858/00000100000000060000000000422395_0.smil
+#EXTINF:-1, tvg-name="青海卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",青海卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226905/00000100000000060000000000422394_0.smil
+#EXTINF:-1, tvg-name="宁夏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",宁夏卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226829/00000100000000060000000000422393_0.smil
+#EXTINF:-1, tvg-name="甘肃卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",甘肃卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226855/00000100000000060000000000422392_0.smil
+#EXTINF:-1, tvg-name="卡酷动画" tvg-logo="RTHK.png" group-title="电信iTV混合源",卡酷动画(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226833/00000100000000060000000000340211_0.smil
+#EXTINF:-1, tvg-name="嘉佳卡通" tvg-logo="RTHK.png" group-title="电信iTV混合源",嘉佳卡通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226748/00000100000000060000000000340209_0.smil
+#EXTINF:-1, tvg-name="金鹰卡通" tvg-logo="RTHK.png" group-title="电信iTV混合源",金鹰卡通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226836/00000100000000060000000000340215_0.smil
+#EXTINF:-1, tvg-name="中国教育1" tvg-logo="RTHK.png" group-title="电信iTV混合源",中国教育1(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226826/00000100000000060000000000422391_0.smil
+#EXTINF:-1, tvg-name="中国教育2" tvg-logo="RTHK.png" group-title="电信iTV混合源",中国教育2(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226902/00000100000000060000000000422389_0.smil
+#EXTINF:-1, tvg-name="空中课堂" tvg-logo="RTHK.png" group-title="电信iTV混合源",空中课堂(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226899/00000100000000060000000000422386_0.smil
+#EXTINF:-1, tvg-name="优漫卡通" tvg-logo="RTHK.png" group-title="电信iTV混合源",优漫卡通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227060/10000100000000060000000000737743_0.smil
+#EXTINF:-1, tvg-name="财富天下" tvg-logo="RTHK.png" group-title="电信iTV混合源",财富天下(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227063/10000100000000060000000000737757_0.smil
+#EXTINF:-1, tvg-name="兵团卫视(订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",兵团卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227115/10000100000000060000000000737754_0.smil
+#EXTINF:-1, tvg-name="珠江台" tvg-logo="RTHK.png" group-title="电信iTV混合源",珠江频道(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227202/10000100000000060000000000966366_0.smil
+#EXTINF:-1, tvg-name="广东体育" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东体育(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227235/10000100000000060000000000985297_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳气象(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227359/10000100000000060000000003547162_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",炫动卡通(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226888/00000100000000060000000000427396_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-5＋(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227356/10000100000000060000000003522472_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-1高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226759/00000100000000060000000000336963_0.smil
+#EXTINF:-1, tvg-name="高清深圳卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226706/00000100000000060000000000334083_0.smil
+#EXTINF:-1, tvg-name="CCTV-5＋高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-5＋高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226794/00000100000000060000000000336973_0.smil
+#EXTINF:-1, tvg-name="高清中央二套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-2高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227589/10000100000000060000000004456632_0.smil
+#EXTINF:-1, tvg-name="高清中央四套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-4高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227759/10000100000000060000000004960976_0.smil
+#EXTINF:-1, tvg-name="高清中央七套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-7高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227764/10000100000000060000000004854042_0.smil
+#EXTINF:-1, tvg-name="高清中央九套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-9高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227732/10000100000000060000000004854043_0.smil
+#EXTINF:-1, tvg-name="高清中央十四" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-14高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227778/10000100000000060000000004854045_0.smil
+#EXTINF:-1, tvg-name="高清湖南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖南卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226712/00000100000000060000000000336989_0.smil
+#EXTINF:-1, tvg-name="高清江苏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",江苏卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226762/00000100000000060000000000336990_0.smil
+#EXTINF:-1, tvg-name="高清浙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",浙江卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226797/00000100000000060000000000336991_0.smil
+#EXTINF:-1, tvg-name="高清北京卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",北京卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226709/00000100000000060000000000336974_0.smil
+#EXTINF:-1, tvg-name="高清广东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226765/00000100000000060000000000337015_0.smil
+#EXTINF:-1, tvg-name="高清湖北卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖北卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227199/10000100000000060000000000966360_0.smil
+#EXTINF:-1, tvg-name="高清山东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",山东卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227401/10000100000000060000000003854622_0.smil
+#EXTINF:-1, tvg-name="高清黑龙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",黑龙江卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226715/00000100000000060000000000337001_0.smil
+#EXTINF:-1, tvg-name="高清天津卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",天津卫视高清(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227354/10000100000000060000000003547160_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV3＋(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227061/10000100000000060000000000689781_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV5＋(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227003/10000100000000060000000000689780_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV6＋(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227047/10000100000000060000000000689779_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV8＋(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227058/10000100000000060000000000689778_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV谍战剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227144/10000100000000060000000000965525_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV相声小品(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227164/10000100000000060000000000965516_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV野外(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227141/10000100000000060000000000965509_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV法治(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227161/10000100000000060000000000964057_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",微电影(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227196/10000100000000060000000000965544_0.smil
+#EXTINF:-1, tvg-name="魅力时尚" tvg-logo="RTHK.png" group-title="电信iTV混合源",魅力时尚(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227147/10000100000000060000000000965535_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",经典电影(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227150/10000100000000060000000000965545_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",热播剧场(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227167/10000100000000060000000000965546_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",少儿动画(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227153/10000100000000060000000000965650_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",美食天府(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227208/10000100000000060000000000984047_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",快乐宠物(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227182/10000100000000060000000000984095_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",电子体育(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227174/10000100000000060000000000984094_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",优优宝贝(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227232/10000100000000060000000000984099_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",中国气象(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227171/10000100000000060000000000984091_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",百姓健康(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227229/10000100000000060000000000984096_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",职业指南(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227226/10000100000000060000000000984093_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",央广健康(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227177/10000100000000060000000000984097_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",证券资讯(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227223/10000100000000060000000000984090_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",收藏天下(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227185/10000100000000060000000000984098_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",家政频道(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227220/10000100000000060000000000984087_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",人物频道(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227168/10000100000000060000000000984088_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",摄影(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227214/10000100000000060000000000984081_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",新科动漫(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227211/10000100000000060000000000984078_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",中学生(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227165/10000100000000060000000000984085_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",早期教育(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227170/10000100000000060000000000984080_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",书画(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227217/10000100000000060000000000984084_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",卫生健康(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227176/10000100000000060000000000984086_0.smil
+#EXTINF:-1, tvg-name="靓妆频道 (订购)" tvg-logo="RTHK.png" group-title="电信iTV混合源",靓妆(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227162/10000100000000060000000000984082_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",快乐垂钓(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227159/10000100000000060000000000984079_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",DOXTV(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227504/10000100000000060000000004195422_0.smil
+#EXTINF:-1, tvg-name="高清中央一套" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-1高清(深蓝)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227462/10000100000000060000000003893556_0.smil
+#EXTINF:-1, tvg-name="CCTV-5＋高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",CCTV-5＋高清(深蓝)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227485/10000100000000060000000003893557_0.smil
+#EXTINF:-1, tvg-name="高清深圳卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳卫视高清(深蓝)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227475/10000100000000060000000003893558_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳体育高清(深蓝)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227465/10000100000000060000000003893559_0.smil
+#EXTINF:-1, tvg-name="高清湖南卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",湖南卫视高清(深蓝)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227488/10000100000000060000000003893560_0.smil
+#EXTINF:-1, tvg-name="高清江苏卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",江苏卫视高清(深蓝)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227478/10000100000000060000000003893561_0.smil
+#EXTINF:-1, tvg-name="高清浙江卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",浙江卫视高清(深蓝)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227468/10000100000000060000000003893562_0.smil
+#EXTINF:-1, tvg-name="高清北京卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",北京卫视高清(深蓝)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227491/10000100000000060000000003893563_0.smil
+#EXTINF:-1, tvg-name="高清广东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",广东卫视高清(深蓝)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227481/10000100000000060000000003893564_0.smil
+#EXTINF:-1, tvg-name="高清山东卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",山东卫视高清(深蓝)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227471/10000100000000060000000003893565_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",点掌财经(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227179/10000100000000060000000000984092_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",惠州1新闻综合(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227516/10000100000000060000000004313748_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",惠州2公共生活(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227539/10000100000000060000000004313730_0.smil
+#EXTINF:-1, tvg-name="深圳卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226768/00000100000000060000000000338575_0.smil
+#EXTINF:-1, tvg-name="深圳都市" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳都市(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226800/00000100000000060000000000338576_0.smil
+#EXTINF:-1, tvg-name="深圳电视剧" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳电视剧(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226718/00000100000000060000000000338589_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳财经生活(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226771/00000100000000060000000000338617_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳娱乐(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226803/00000100000000060000000000338618_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳体育健康(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226721/00000100000000060000000000338619_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳少儿(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226806/00000100000000060000000000338630_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳公共(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226724/00000100000000060000000000338631_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳DV(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226774/00000100000000060000000000338632_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",深圳宜和购物(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221226809/00000100000000060000000000338633_0.smil
+#EXTINF:-1, tvg-name="华娱卫视" tvg-logo="RTHK.png" group-title="电信iTV混合源",华娱卫视(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227295/10000100000000060000000001005015_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",宜和购物-IPTV(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227317/10000100000000060000000002870488_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",法治沙头角(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227550/10000100000000060000000004268208_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV综合1(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227266/10000100000000060000000001004999_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV综合2(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227289/10000100000000060000000001005000_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV综合3(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227240/10000100000000060000000001005001_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV综合4(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227269/10000100000000060000000001005002_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV综合5(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227292/10000100000000060000000001005003_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",IPTV综合6(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227243/10000100000000060000000001005013_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",汕头1新闻综合(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",汕头2经济生活(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil
+#EXTINF:-1, tvg-name="导视-IPTV高清" tvg-logo="RTHK.png" group-title="电信iTV混合源",汕头3影视文艺(电信iTV源)
+http://125.88.53.18:30001/PLTV/88888895/224/3221227415/10000100000000060000000003869079_0.smil
+
+
+
