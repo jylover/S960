@@ -1,0 +1,77 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>0</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  <channel site="tbc.net.tw" site_id="007" update="i" xmltv_id="台視">台視</channel>
+  <channel site="tbc.net.tw" site_id="009" update="i" xmltv_id="中視">中視</channel>
+  <channel site="tbc.net.tw" site_id="011" update="i" xmltv_id="華視">華視</channel>
+  <channel site="tbc.net.tw" site_id="005" update="i" xmltv_id="民視無線台">民視無線台</channel>
+  <channel site="tbc.net.tw" site_id="013" update="i" xmltv_id="公共電視">公共電視</channel>
+  <channel site="tbc.net.tw" site_id="118" update="i" xmltv_id="公視三台">公視三台</channel>
+  <channel site="tbc.net.tw" site_id="027" update="i" xmltv_id="GTV第一台">GTV第一台</channel>
+  <channel site="tbc.net.tw" site_id="028" update="i" xmltv_id="GTV綜合台">GTV綜合台</channel>
+  <channel site="tbc.net.tw" site_id="041" update="i" xmltv_id="GTV戲劇台">GTV戲劇台</channel>
+  <channel site="tbc.net.tw" site_id="100" update="i" xmltv_id="GTV八大娛樂台">GTV八大娛樂台</channel>
+  <channel site="tbc.net.tw" site_id="036" update="i" xmltv_id="中天綜合台">中天綜合台</channel>
+  <channel site="tbc.net.tw" site_id="039" update="i" xmltv_id="中天娛樂台">中天娛樂台</channel>
+  <channel site="tbc.net.tw" site_id="052" update="i" xmltv_id="中天新聞台">中天新聞台</channel>
+  <channel site="tbc.net.tw" site_id="025" update="i" xmltv_id="東森幼幼台">東森幼幼台</channel>
+  <channel site="tbc.net.tw" site_id="032" update="i" xmltv_id="東森綜合台">東森綜合台</channel>
+  <channel site="tbc.net.tw" site_id="040" update="i" xmltv_id="東森戲劇台">東森戲劇台</channel>
+  <channel site="tbc.net.tw" site_id="051" update="i" xmltv_id="東森新聞台">東森新聞台</channel>
+  <channel site="tbc.net.tw" site_id="057" update="i" xmltv_id="東森財經新聞台">東森財經新聞台</channel>
+  <channel site="tbc.net.tw" site_id="062" update="i" xmltv_id="東森電影台">東森電影台</channel>
+  <channel site="tbc.net.tw" site_id="066" update="i" xmltv_id="東森洋片台">東森洋片台</channel>
+  <channel site="tbc.net.tw" site_id="058" update="i" xmltv_id="非凡新聞台">非凡新聞台</channel>
+  <channel site="tbc.net.tw" site_id="221" update="i" xmltv_id="Discovery 科學頻道">Discovery 科學頻道</channel>
+  <channel site="tbc.net.tw" site_id="222" update="i" xmltv_id="Discovery Asia">Discovery Asia</channel>
+  <channel site="tbc.net.tw" site_id="019" update="i" xmltv_id="Discovery">Discovery</channel>
+  <channel site="tbc.net.tw" site_id="021" update="i" xmltv_id="TLC旅遊生活頻道">TLC旅遊生活頻道</channel>
+  <channel site="tbc.net.tw" site_id="022" update="i" xmltv_id="動物星球">動物星球</channel>
+  <channel site="tbc.net.tw" site_id="404" update="i" xmltv_id="彩虹頻道">彩虹頻道</channel>
+  <channel site="tbc.net.tw" site_id="405" update="i" xmltv_id="彩虹e台">彩虹e台</channel>
+  <channel site="tbc.net.tw" site_id="406" update="i" xmltv_id="彩虹電影台">彩虹電影台</channel>
+  <channel site="tbc.net.tw" site_id="010" update="i" xmltv_id="大愛電視台">大愛電視台</channel>
+  <channel site="tbc.net.tw" site_id="102" update="i" xmltv_id="信大頻道">信大頻道</channel>
+  <channel site="tbc.net.tw" site_id="103" update="i" xmltv_id="華藏衛視">華藏衛視</channel>
+  <channel site="tbc.net.tw" site_id="121" update="i" xmltv_id="Z頻道">Z頻道</channel>
+  <channel site="tbc.net.tw" site_id="108" update="i" xmltv_id="天良綜合台">天良綜合台</channel>
+  <channel site="tbc.net.tw" site_id="217" update="i" xmltv_id="韓國娛樂台KMTV">韓國娛樂台KMTV</channel>
+    <channel site="tbc.net.tw" site_id="026" update="i" xmltv_id="緯來綜合台">緯來綜合台</channel>
+  <channel site="tbc.net.tw" site_id="029" update="i" xmltv_id="三立台灣台">三立台灣台</channel>
+  <channel site="tbc.net.tw" site_id="030" update="i" xmltv_id="三立都會台">三立都會台</channel>
+  <channel site="tbc.net.tw" site_id="033" update="i" xmltv_id="東森超視">東森超視</channel>
+  <channel site="tbc.net.tw" site_id="042" update="i" xmltv_id="TVBS歡樂台">TVBS歡樂台</channel>
+  <channel site="tbc.net.tw" site_id="043" update="i" xmltv_id="緯來戲劇台">緯來戲劇台</channel>
+  <channel site="tbc.net.tw" site_id="049" update="i" xmltv_id="壹電視新聞台">壹電視新聞台</channel>
+  <channel site="tbc.net.tw" site_id="054" update="i" xmltv_id="三立新聞台">三立新聞台</channel>
+  <channel site="tbc.net.tw" site_id="055" update="i" xmltv_id="TVBS 新聞台">TVBS 新聞台</channel>
+  <channel site="tbc.net.tw" site_id="056" update="i" xmltv_id="TVBS">TVBS</channel>
+  <channel site="tbc.net.tw" site_id="063" update="i" xmltv_id="緯來電影台">緯來電影台</channel>
+  <channel site="tbc.net.tw" site_id="064" update="i" xmltv_id="LS Time電影台">LS Time電影台</channel>
+  <channel site="tbc.net.tw" site_id="070" update="i" xmltv_id="緯來育樂台">緯來育樂台</channel>
+  <channel site="tbc.net.tw" site_id="072" update="i" xmltv_id="緯來體育台">緯來體育台</channel>
+  <channel site="tbc.net.tw" site_id="076" update="i" xmltv_id="緯來日本台">緯來日本台</channel>
+  <channel site="tbc.net.tw" site_id="077" update="i" xmltv_id="國興衛視">國興衛視</channel>
+  <channel site="tbc.net.tw" site_id="089" update="i" xmltv_id="非凡商業台">非凡商業台</channel>
+  <channel site="tbc.net.tw" site_id="090" update="i" xmltv_id="三立財經新聞台">三立財經新聞台</channel>
+  <channel site="tbc.net.tw" site_id="113" update="i" xmltv_id="高點育樂台">高點育樂台</channel>
+  <channel site="tbc.net.tw" site_id="417" update="i" xmltv_id="樂活頻道">樂活頻道</channel>
+</settings>
