@@ -1,0 +1,281 @@
+﻿#EXTM3U
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/144" tvg-id="ed1f028906647fefee55cf631c366a37",CCTV-1
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/151134189?ticket=51F65A6C26C49DB1B9B4CFE38625E10B0339C1B2&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/194" tvg-id="477e084380e1f1f493b19cb6ebe1e55d",CCTV-1-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1124630087?ticket=6C60B49C740855623D45B0C6BB54B275663DD128&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/147" tvg-id="fbac7e6ea410799acb678d2772dfeffb",CCTV-10
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1853795579?ticket=D3514A5931FC99C938D485CF57809D26D94C0DAE&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/57" tvg-id="0bccc1aa6dabe94582f7c390b30fbe84",CCTV-10-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/717343755?ticket=972D63FC4EC93623B070C216CB6EF487EC6A588A&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/148" tvg-id="b2f9952a8dba4fbfc79c594ae3aff9c7",CCTV-11
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/714471858?ticket=7A729A836CFA48CE9E1611481DBF68FEB2773D9D&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/149" tvg-id="b032fb7425599b0dcf909db0fa4a457f",CCTV-12
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1962619568?ticket=18F9DAF9D4720BBF4EF68F5683C82A37168C1FA4&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/48" tvg-id="62659d18b9d8a5e8f04fd2e1851cbbf0",CCTV-12-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/412968290?ticket=3A33B05B807EC52D5FC7EE1067D6ABDE6319AB56&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/52" tvg-id="5ad1e5033e479c71d39ce2bd4898598c",CCTV-14-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/65392986?ticket=90CBD49A799AAF695612378B188C7EF24A6EBF73&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/145" tvg-id="b570058e061deb489c4f37d5fdce0bde",CCTV-2
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/235237557?ticket=632898F733FF0EE9D4B887872AF24E3E8F8E0329&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/237" tvg-id="04447a677e7ebba7b0aa7720d7b041c0",CCTV-2-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1736066052?ticket=C496D8D1B7A3CDDC47A2C60525239CD6CAC1C97F&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/13" tvg-id="bb77563b80baf42818328c46e2167f80",CCTV-3
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/995522491?ticket=0AD29235726D1C9B8EE1BAFE4517E9A21C61E9A6&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/234" tvg-id="a02b8af6e3a4f1df8fc5ab3fd31b83af",CCTV-3-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1988766624?ticket=B07A0C3EC7436486A919541AED949FEE890DB9F7&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/166" tvg-id="fb08ccd5f85949544573d161e85a9bed",CCTV-4
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1439435003?ticket=195571B8838E515637B2F0D2EBA0D4D090E37BEE&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/238" tvg-id="b085448adb9930ce26f541800106e5c1",CCTV-4-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/172262832?ticket=1AF719A5FE455E78B8578393D070F8B4DBA3BE16&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/56" tvg-id="8b5722261154b0f5de9f87ed90301999",CCTV-4-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/639784843?ticket=6BAE2EAEF0F03165032E06402130454F8037B915&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/14" tvg-id="968efbfa9db9627d971c64bdf366f9ff",CCTV-5
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2063306390?ticket=9028538FDA2C40B992304EC74DA9AD8DD129AB8A&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/233" tvg-id="f05cca1630b1a0c8595ea0bd0f8bfbf3",CCTV-5+高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/382360816?ticket=6ECE5A2A32852AA0225527B862895DC93D676838&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/229" tvg-id="9940add531298a302f70e409904bff2b",CCTV-5-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1437417625?ticket=6096BE39984CE197289326A770192D7044101229&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/15" tvg-id="e17418da612b7dd7adb48d4e5949fbf8",CCTV-6
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1511552225?ticket=FC77C04A418127125CB9C115E79042BFE8295816&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/235" tvg-id="23ec35a565bf6a314e388ad54de19aab",CCTV-6-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/624290851?ticket=46049F161B0F1B9022BB1DF2F7490823D6C69DC1&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/146" tvg-id="0479d02e4e505c9608ef85c2a446b708",CCTV-7
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/785414404?ticket=46408BBC691AC6DE04800207C6C14D818C9D1CA2&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/227" tvg-id="e03e45cd11fb340983996d78f3275b1a",CCTV-7-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1296383712?ticket=824B54C765023705EF8F59AC61E9A9E25B4467AE&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/16" tvg-id="677357d970fb1cf3899df856159e8d78",CCTV-8
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1498903399?ticket=5DD90F2F3F0585ABC1707CCAAD7F6C01655FC0B2&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/236" tvg-id="b284de12b76936ce08c2b92a9d9ab3ce",CCTV-8-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/316572850?ticket=EF6641389A1106104B2BBF4096F2FBC3D2E48963&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/167" tvg-id="bfd0a6010411e57a78e23edbde2efc2e",CCTV-9
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/27709631?ticket=ADB427D5D6126B5E3C5F6B24C6478A1BEE99BC48&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/17" tvg-id="ce5c3aee43fc4574b5bd1a56c29db91f",CCTV-少儿
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1849318606?ticket=8B6192778D221803E7F8C41C9EBC3A1E10ACB5B3&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/18" tvg-id="9518246f8713e95c043c81551bc54d3c",CCTV-新闻
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1864636565?ticket=C40B3C96448F644282F90B89DF430F3B6B284B93&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/150" tvg-id="4b447587aa922754a2009a7b4c93ec09",CCTV-音乐
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/125125707?ticket=0154E4A0989E81FB7CD8C7B9179254F8CC7D630D&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/127" tvg-id="353073e7c8ecf0f663313cf5f3071f64",CCTV中学生
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1735602229?ticket=00968A7370EBDF8A67C08A961E6365F1607E4D59&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/170" tvg-id="f9ef7847d74beac6d36076817e586081",CGTN
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1199108089?ticket=05DB9A21A488648AC65217AC482634064C870425&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/2" tvg-id="2edb754153f917f9e6a4f641a437900e",CHC高清-精品
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1098242862?ticket=FF808C81A7B89B4285969C16BBEF32BD920C18DF&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/163" tvg-id="bf840d688034f9dd808b10c30b80b494",DV生活-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1745716415?ticket=775B3F0F6D433587772329386E7C941E8BC8F002&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/247" tvg-id="020509e51c82963ae114179cedc52c7c",世界地理-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1695089922?ticket=B86A3746A2AB74CC91509B874F376A35A8EF8833&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/11" tvg-id="11d17dab83d1187f11ea0247099a2ee0",东南卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/729665809?ticket=3752587CE24B48BEBC08007677B8AB184D58A6DA&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/5" tvg-id="455e1601e6d940b15c605d21f37fce65",东南卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/18243141?ticket=A2F58B7CD0FB6499D84F845A25EB7374A71EE91C&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/24" tvg-id="bfb4ba5cba1fdaae8fe6472fcaffcfe8",东方卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1555739839?ticket=0A1BEAAF32088FF0ED33FEC12F191D691A9ADD91&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/196" tvg-id="178d8b6ff6436c0d7b2cbba9b9803410",东方卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1871416599?ticket=5BEE66E0390FB6F1FD2EA695A05F8DC1D2BC20C4&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/140" tvg-id="16c32a11de8432221c8535bb3b087487",中华美食-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/288015126?ticket=64BED0DA6F2EE3D592907690000A81E82B4CCCE6&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/180" tvg-id="79cffcadb548be2fd38ff250d5d598e9",中国之声
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/771542905?ticket=4F8261E8AB0D17009F9B5A3701E160D1A324DBB5&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/88" tvg-id="4aa25eb357ef95ba95b83f4513b8195f",中国教育台
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/861839946?ticket=75B676420A40E655D2667B8FB84C3739178A1F1C&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/129" tvg-id="812a58331119301b23dc8f928f60ca73",中国气象
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/861416065?ticket=D1426988B94A308612A24DFCBF8DA42C40863E9C&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/206" tvg-id="9773ded574fbd2a4cb1bca68da6725d6",书画频道-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1440641943?ticket=CE161236CF73CAE0F2BB984588B319279F51BDAF&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/41" tvg-id="9509ef5b265fa98a55d4b8b902a64551",云南卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1542392213?ticket=3AACDD6A5DAE7AE6A352659B194C9E6D0F64420B&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/107" tvg-id="7b9d099c6d1dd5170cfc1f2ea5cd8766",人物-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/470392187?ticket=EABB290FB894FE047123EA96480709F2A8B57824&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/108" tvg-id="c37ec8f0f7b65be95f7446fffce977a3",优优宝贝-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1892187843?ticket=949AED952A43DF59F4473438797D133179D1554F&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/141" tvg-id="f6dcb3c194314309e98c88d2621b12d6",先锋乒羽-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1102306550?ticket=9AE818517F90BB9E370C04037A53F6994C702E5C&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/64" tvg-id="dcd5247d605313e330233f9fc85f6a30",公共频道
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2099566044?ticket=06AC0A42C604A1CAF567B80D7947E47FCAC8FAAE&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/240" tvg-id="8d894d2222c04bae0cad523e92434891",兵团卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/575506829?ticket=36E45717D18BA22060DA8354D1C0D1EECE1A4AA8&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/77" tvg-id="c7332691df3fb0942db5023a254d11b9",内蒙古卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/287716295?ticket=ADD32E016229C1B3E789C507771FA9967AB23EC4&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/31" tvg-id="14691f1fc727cdf1c93c50933ee4319d",劲爆体育 HD-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/522152212?ticket=9EE18C4C8FAD65AC6D61281912C315F066D878BA&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/9" tvg-id="5186548e054c230b2781c03001e935c9",北京卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/240420433?ticket=93CC46163769598AF6DF479EAFA079BF37866E94&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/192" tvg-id="a883220fd0bd45d42ac0fa3d4944807e",北京卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/253920168?ticket=32B94F11F66BD9873D6DA7EE6CDDA3524D1961E8&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/158" tvg-id="704a7d992089580b480f1b6c12e1b999",卡酷少儿
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/427641456?ticket=F64F99788C1524B2F213FC0B6BE6C97B721A19A2&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/204" tvg-id="4a802fe57ce943f1c6bff2a0b4ac0833",发现之旅-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1697611850?ticket=2C6791223028652BB38AD4624F0325B1686B6DDF&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/168" tvg-id="cdaeaf2380b9ffbe11af23c36186f180",吉林卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/598716109?ticket=322E7E8F55869DEB6866F6A8F179C53CA9D7668B&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/40" tvg-id="2aa750df1df8d60409a0f414b297d4a3",吉林卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1599121194?ticket=61C3BE875AEA7191C5F5A19F7489BFA87DD2545C&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/96" tvg-id="01212c81217d37d19e19b35de6b2ebd0",嘉佳卡通
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/19669249?ticket=A2F722CDF8933596D1B710BBA2973D2FD5F162D9&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/124" tvg-id="2f217e35a7e6df7c8916defaeba9302b",四川卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/897458479?ticket=805DD29DE08B8D120563B48E1531801B84DD6AFF&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/134" tvg-id="243ba4442bb11626edc4f102e51b5764",四海钓鱼-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1151613732?ticket=DAB223A2425DF01C827B72A781B4480AB3A62F1E&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/239" tvg-id="61145f79243585bc35bf1b13e38a9ef6",国防军事-精品
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2036274273?ticket=34DB86C25F0C5EE71217F0246A978BFBBC911416&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/164" tvg-id="a03eb5dd8efeef87046a931728b95248",天元围棋-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1572159136?ticket=170843A79D025DBE3E7AE5D33D745C31AC37E43A&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/45" tvg-id="fba048f5ffd0994caee67bc17e6de026",天津卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1967694075?ticket=C13B7F63A4078160CD74FDE0A60EAB526A66AEE3&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/3" tvg-id="7857cbfcee2b772c8bb282eace38fab1",天津卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2093700984?ticket=0F1503DB7F405FDCC260C828B9490ACF5E26ACAC&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/78" tvg-id="7e69d08620ceced5ff4535cf271b76d3",宁夏卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/114321790?ticket=BD5CA361BCD8B7A8999491CC422C86D405F93BD8&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/25" tvg-id="cf63c993d2748183a01634f77387a6d5",安徽卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/331965391?ticket=2B11573429CA600CE512EB60A531B10B9FA64355&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/51" tvg-id="65576e76a3e7d097c9bd5ba22e283e22",安徽卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1986942821?ticket=DF981FF1FA6AB6BA2ED7C615484519DB74803BF0&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/130" tvg-id="fb6c8d1411c8adea9c8575abd407bfba",家庭影院-精品
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/344812795?ticket=B2EB5CCD670B8AF060A0B655F63195A30C1CFB59&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/136" tvg-id="93d2ddc861246336868879e41e991955",家庭理财-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1222496915?ticket=6E7F510B9E86BF71B13CF4E742694F024CD6CAF7&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/139" tvg-id="9c8ae10eecd6f462e7bf5f5fa857a3b0",家政-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/249662108?ticket=21040DC690D87BC49DD1E39B75231426C7E6867E&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/27" tvg-id="a621e39f793c628771e3beb3ce2b27f1",山东卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/534978982?ticket=58C55FCFABEC0D64404F391F5EA1C4008695762A&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/38" tvg-id="6cfd9ec86f97e0f2affac589cbf8b1f8",山东卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1218379116?ticket=2335F5B51713E2434B7B60F454401E33C64E1CD2&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/10" tvg-id="7737e0dcc9e3b4cc889e046c6016e7c5",山西卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1558198135?ticket=709012EA25119F0B8F6D01A3A07D6AD2E913CE90&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/80" tvg-id="51f9e437843312f714fa0c21e5911815",广东卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/937752913?ticket=614DB4A856F704708F2CDD1C0B3A5098BF807937&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/231" tvg-id="b264c4860c3dc3e7d4850b0bb8f57cd4",广东卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/113534130?ticket=0BDB10D445C3971E72E145DC7F482FD207A003D6&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/224" tvg-id="1d2123d88d0c51c179e7b07aa3a900a1",广西公共
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1478697245?ticket=44BBEDF7180E4B2577C9CB1F3A51F7FADC12B782&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/65" tvg-id="262d605d7b5bdef3a9b208a65af649c5",广西公共柳江
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1566584102?ticket=18CD6D8E54E7ED2DEB68FE00FF94997B3F75448F&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/218" tvg-id="82a113c0385e6b180c923190aa7ae78f",广西卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1075028354?ticket=68CFA5F7F2F118B1997E6D5E43E0354419EB8200&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/226" tvg-id="a2f8927e5af60270cbdb0018b639fdc5",广西卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2123561122?ticket=9EB3F48FFB03814EC85912476F06FE089FB27626&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/222" tvg-id="e933b905f483a791ef1dc00091ff4e41",广西影视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/96023529?ticket=A15BBCABE1454CCE5F5F7914B0AA230CD244D7A2&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/223" tvg-id="56c242f30df6380ae8a1e8423f0b9c2d",广西新闻
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1933754966?ticket=C39C46A33E2055A451E761EC2F0F167DD547F25E&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/169" tvg-id="5bc503fe45b7d348f8ea80de4d0bf846",广西科教
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2114176347?ticket=BB19E64BE6D29C2ABF64ED33054FFBDDEF19E1FA&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/219" tvg-id="83a99da11277509fa2dd3a8fa88a9307",广西综艺
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/563980675?ticket=5FE60215B5F522819AC8FA7CA5308F9432C985BB&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/220" tvg-id="0964b9e4dc02371f16e0d7e83ad5c8d1",广西都市
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1689871369?ticket=051334953004FF0254DBD9200F401C11D173EEB2&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/7" tvg-id="28f378edd17f0502bde3fbba666e854e",延边卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1836643112?ticket=09CC34EE4F4FD4B65DD143ACB731BE4AEF2E76F8&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/138" tvg-id="a5243dfe9b84814ef0d8f275f630c1d9",快乐宠物-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2117936293?ticket=AD2B9F6EABFDF6040752FA79AAF947B565A8FB5A&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/242" tvg-id="c3e8521c80ce437bb6ace4febf9b3dcc",怀旧剧场-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/475195587?ticket=CBBF31E3FFD67CB1C97B306EB567C64950ABDF76&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/105" tvg-id="ddee6bc8e4d04e82515665a681d3ef5c",收藏天下-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1215033053?ticket=B0163D590C67C9B4CE00BCC38FFCBA42487C47AB&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/137" tvg-id="bb22ec43836eb1a3c31741ad2f28ad6b",新动漫-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1139548859?ticket=427DB5E356351CF51AAD84962E99C62DDEE1CF62&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/109" tvg-id="0cb31f9d47aaff910ed6091be68be3eb",新娱乐-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/488616716?ticket=F85A32994F5296F13DF16090B83069D00D4FA018&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/44" tvg-id="66dfeafb97807479a786172fa84d9f82",新疆卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2078990182?ticket=3F41891EE212E3B73A98D6A2D8DB2801AD4A32C5&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/202" tvg-id="fb62f1ceade0329607ff3787aee4bec0",新科动漫-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1324442363?ticket=419F7F672C442328B9D2420DEE98D13700AF9749&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/62" tvg-id="78e9edeb0e42580c49890186f6cda601",新闻综合频道
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1810753912?ticket=5DB381C6DDBAF48D2F97122396B225632B0C78A9&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/111" tvg-id="a6264e15d06a1c81053e611c10a04f39",早期教育-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/357443238?ticket=65F664052ABF45728E7193AE4D9EFDC91395188C&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/67" tvg-id="4abf30648f14423e7b4e0ba3b02cce8d",柳州公共
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1680916298?ticket=E469DDF8AC741358BB6D1189AA88EE16F0795BE0&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/161" tvg-id="74976936eea61175ea98a4db09659244",梨园频道-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/912889716?ticket=C2A7BFC7EAFD0AEF173A3A05F27801329745D820&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/22" tvg-id="8dbae53459501a49fbffacad70efbbd4",江苏卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/887470733?ticket=20B044620FCF5B2C917820945F92BC132C4C2B44&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/230" tvg-id="d9b11cac96bad02a0f6befc36b0eea24",江苏卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/740078041?ticket=88E9CF0CC8AD838A841CFA16E8208544FB5ACD3C&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/26" tvg-id="9f8899783acd1949360a44ec75bb5aad",江西卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2023327903?ticket=D502CA4A45114BEAD8B6F268D9200ED571212224&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/55" tvg-id="b691e4e8705718c224f5a0fc30530d28",江西卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1759809974?ticket=DD3FB0B0064E63A07E01939CD754232613B32795&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/12" tvg-id="f56ab769c43372861efd319638f42a97",河北卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1773628149?ticket=53FBC35CE738CC94E24E1F3B2274BC3E2233520E&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/39" tvg-id="fda8ffad20b6c8db10fcb32f9e882d25",河北卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/771729661?ticket=B0440349A112C4C9FB1159D4916C1FDB9786D826&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/125" tvg-id="3070d6cdb530119ff450f8fa83b67419",河南卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1305899056?ticket=EBA3ACD3FA7FC84CAE5F09C37B658301001D71B7&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/75" tvg-id="910dd293130910da6a52ce21f590ad14",浙江卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/332533137?ticket=306669A1586C1579109EFC6082E0C594C8CAA265&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/228" tvg-id="ba6a3fefdcb49fb78ad5742d6bcf2fc3",浙江卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1866427066?ticket=F24D7355E2F843EC4278A8BFA5BBC00431353D0B&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/47" tvg-id="bd97b21cc51c179e75702860505c862f",海南旅游卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/481466301?ticket=580E68B9ABC39A69C84B2B9DF269523797C82B5F&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/123" tvg-id="849bdbc9c6a1a0e8971ab139231ea5c6",深圳卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1239128964?ticket=72E70C6C1EE2C06757FAF52E909FE0BC91D33058&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/232" tvg-id="6d173772fcca6e6fc9015aa6b32d208d",深圳卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1916213101?ticket=C557E3F5DA0E22FFE8AA59B23023C17A13D96240&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/122" tvg-id="35ff74364370ef3d278918730a134106",湖北卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/913637173?ticket=353F8E4DA02B97B4155FEDF53FD45A70E48B2CAB&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/4" tvg-id="4bb96ad25c91f3ec55d02c09dd8730a0",湖北卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1382725963?ticket=2D0BDBA41327EF184DD6270BFD22ABF2CC9E1C6D&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/121" tvg-id="25bb40f87cf7c4980a8543064ea957f6",湖南卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2017508133?ticket=953CC0D5DEB81AE6EC618563978D18A40B5E99A2&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/193" tvg-id="31eb8db22c01863e3c6e15bd165c90fd",湖南卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/848161585?ticket=447A62BC3C435962EE7F959B9AA5D27A8BFC56D4&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/203" tvg-id="f4035fcd04a99c485664e326684cd759",环球奇观-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1298072564?ticket=14583FDFBBC3F8DC0847662E0B0C0E045C1DE362&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/104" tvg-id="3dfbeec29dc293cdb00da1c75be5e9e7",环球旅游-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1122958141?ticket=FDC1E2C311BC1A695505EC0F9F3FB2183E0BC3B7&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/76" tvg-id="c64b6d32ec7ac9798893a73d16cd22ce",甘肃卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/846023622?ticket=BA556B6D1E436F4B0FF15E740D20C4DAC8817B8E&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/135" tvg-id="71f57c7928b18b2cceb1377ab744a0e5",电子体育-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2038232433?ticket=353E97817CDA0C81E50D4FE548C9ABDC0A1E3713&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/63" tvg-id="feac06fbf102ebd7219ea9ed5083e151",科教频道
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2064035070?ticket=D47D8F2656DFFC29F408AA23521C2FD45FD05785&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/246" tvg-id="2d39055616b6c76d8c58fb196d561c37",第一剧场-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1443182893?ticket=3746FDE196F5BCCF62F900F5CBD54C86E712E8D9&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/142" tvg-id="fb637c595830f970221b56366d4daf0c",网络棋牌-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1501324283?ticket=80A63673AB53610844F34A97DB8B07E532BF324B&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/110" tvg-id="1402465d331884ee29f8ade5c03dcd51",美食天府-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1564869140?ticket=25B3A0ED223793201BC984743DE904CECDC258D8&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/159" tvg-id="cb10dfcc0d07e7a2bc59cee59ff11afa",老年福-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1289687243?ticket=7533F33334767D2770C479692EC3D2B9A389FE05&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/205" tvg-id="6383158e0efed2f2c7410ac63ab2f3f1",老故事-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/236290915?ticket=CE07B3F973FA8894138A217480B2146F8E244B4D&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/162" tvg-id="eed0b554e61fa1e2f059462551b79ca9",茶-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1421201646?ticket=FD0718DF7DB2DB08CDF5655B9E36991FB8B3FD1A&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/171" tvg-id="3e38f4e5ed400b2a15c070aac5e8f767",西藏卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1710503998?ticket=3E0B58FDB5BA69CBCC74B114EC7B28AE67502049&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/207" tvg-id="0d72ac0ca3af8a3d68d7ee6be759d726",证券资讯-精品
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/212627981?ticket=6DA34A4863C3E8299137F5025183F60533D217BC&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/79" tvg-id="b33c0aebb89f5fd570c72c1306be872f",贵州卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1795833011?ticket=1BF5E90A1AE7132C4E923EC82DA29FA616D54C7E&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/28" tvg-id="dd1d175aa6aaadb5bb7a048c5973d9b5",足球频道-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1511464413?ticket=5704A55CF7EA12083D4072B54D61BA4D585E8000&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/103" tvg-id="0cdd5d8d2efe0965f6d04b2b7e00b284",车迷频道-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/224255244?ticket=1752705B510D3D13C8AD8349BD18EE5FE79CA858&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/23" tvg-id="01e2be246ae2f19ddcb0b0a41249cd34",辽宁卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/616489473?ticket=1B7A6E16C55D6F98E849B02AE037EF378DEE52F0&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/6" tvg-id="11af668bf58c912afbf84bf535700af5",辽宁卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/191278865?ticket=1E6A59D3F6B2CEB8A6DACD969A42C0ADE2CF2B5B&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/8" tvg-id="667ebc2f2a506c4848dea499356b7b9a",重庆卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/800882278?ticket=DDD3963E577934849864988ED319C58428404724&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/160" tvg-id="e908c6fb5b9f8a347136e32a6b3fbdc4",金鹰卡通
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/2076575977?ticket=0307BD21ABB2542C82D3DFBADBC4F081A385DAD8&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/43" tvg-id="9f742127534e95f46f0003fbc621a836",青海卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/656503967?ticket=F5BB6DDF74C01EAB5E7A5CDCE2585EA6AAC73BEB&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/183" tvg-id="aac8e326d07d1aa3adfcd72c05a1b776",音乐之声
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/652462250?ticket=0D73A08940C9D1C13D7C9A4D76AC4C2C2BB91CC9&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/245" tvg-id="48a4c19f5005265c9ccc986f5a74a67c",风云剧场-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/532784200?ticket=2EA15307827C92196613B31EC3B1173D6734B12F&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/243" tvg-id="a94be6afa720fa29cab5d2f37864a1a4",风云足球-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/803621801?ticket=3CE4F5165F0067EE4BE46245B9394E410A71A7AE&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/241" tvg-id="7f3e1acb8575d4cf4132c1a502fb2487",风云音乐-付费
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1260011135?ticket=8AC3CC31820778A3A9D93EE749F61CE105B20D0B&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/244" tvg-id="45339bb2179f4440b451aa371a767e5c",高尔夫网球-精品
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/849032005?ticket=72B43BA839FC8261FFDACE92CF1668A65B115CD6&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/49" tvg-id="555b61d23851164d2d3fcb60d6d1c5e6",高清新视觉
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1382112085?ticket=0DB797B79F9F1106C8E5435F7DE6187CBEE55AE5&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/126" tvg-id="e7a3de0c1b90f26f16165215a54a5663",黑龙江卫视
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/215917543?ticket=0999E92B1F4D469870CE55D0791087FCF2E56CF3&profile=pass
+#EXTINF:-1 logo="http://zkkm2580.f3322.net:9981/imagecache/195" tvg-id="dd7adbbf3c0e0eb21bfce8967b5b3a81",黑龙江卫视-高清
+http://asdf:asdf@zkkm2580.f3322.net:9981/stream/channelid/1071348445?ticket=758EADD9DD90602018480311915D4E6B1F07B6A1&profile=pass
